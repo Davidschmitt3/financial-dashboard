@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,region,customer,product,category,units,unit_price,revenue,cost
+1,2025-11-24,West,"Customer 036","Cloud Software",Technology,8,1310.25,10482.0,7943.63
+2,2025-12-13,West,"Customer 076",Support,Services,14,400.97,5613.58,3003.22
+3,2025-04-30,Southeast,"Customer 004",Support,Services,18,1194.48,21500.64,13416.0
+4,2025-10-07,Southwest,"Customer 058",Implementation,Services,19,1571.41,29856.79,17289.71
+5,2025-03-23,Midwest,"Customer 036",Implementation,Services,5,1272.74,6363.7,3577.41
+6,2025-02-22,Northeast,"Customer 013","Cloud Software",Technology,12,4275.6,51307.2,37792.69
+7,2025-01-23,Southeast,"Customer 016",Implementation,Services,13,624.3,8115.9,3951.7
+8,2025-11-18,Midwest,"Customer 074",Support,Services,7,3596.72,25177.04,13276.66
+9,2025-04-27,West,"Customer 030",Consulting,Services,4,2055.6,8222.4,3638.79
+10,2025-07-06,Midwest,"Customer 046","Analytics Platform",Technology,7,3433.33,24033.31,17118.72
+11,2025-12-16,Southeast,"Customer 022","Cloud Software",Technology,18,3713.35,66840.3,44525.29
+12,2025-07-14,Southeast,"Customer 029",Consulting,Services,11,4253.55,46789.05,23121.28
+13,2025-04-28,Midwest,"Customer 052","Cloud Software",Technology,9,564.4,5079.6,3993.08
+14,2025-10-18,Southwest,"Customer 064",Consulting,Services,13,4452.24,57879.12,27368.51
+15,2025-03-15,Southwest,"Customer 032",Consulting,Services,18,2810.14,50582.52,24761.27
+16,2025-08-08,Northeast,"Customer 047",Support,Services,8,4987.3,39898.4,21630.24
+17,2025-09-10,West,"Customer 015","Cloud Software",Technology,5,3230.37,16151.85,12384.15
+18,2025-08-05,West,"Customer 050",Support,Services,13,3080.47,40046.11,23822.95
+19,2025-05-09,West,"Customer 015",Support,Services,18,3816.67,68700.06,44172.48
+20,2025-06-24,Midwest,"Customer 056","Cloud Software",Technology,6,2405.19,14431.14,11438.27
+21,2025-05-15,Southwest,"Customer 065",Support,Services,4,4384.96,17539.84,9958.26
+22,2025-11-24,Southeast,"Customer 026",Support,Services,5,2026.09,10130.45,5529.68
+23,2025-09-29,Southeast,"Customer 042","Cloud Software",Technology,16,342.51,5480.16,4321.96
+24,2025-06-07,West,"Customer 031","Analytics Platform",Technology,19,4748.01,90212.19,55363.63
+25,2025-09-06,Southeast,"Customer 017","Cloud Software",Technology,5,3383.82,16919.1,13391.4
+26,2025-03-26,Southeast,"Customer 078",Consulting,Services,14,4830.72,67630.08,35074.73
+27,2025-12-20,Midwest,"Customer 052","Analytics Platform",Technology,12,2330.98,27971.76,19099.46
+28,2025-03-03,Southwest,"Customer 009","Analytics Platform",Technology,11,349.91,3849.01,2650.53
+29,2025-10-29,West,"Customer 010","Analytics Platform",Technology,2,1337.47,2674.94,1992.48
+30,2025-06-19,Southeast,"Customer 031","Cloud Software",Technology,9,3427.64,30848.76,20800.64
+31,2025-03-09,Southeast,"Customer 061",Support,Services,8,3976.94,31815.52,20654.62
+32,2025-04-08,West,"Customer 056","Cloud Software",Technology,12,2262.0,27144.0,19400.47
+33,2025-01-28,West,"Customer 052","Cloud Software",Technology,11,4052.81,44580.91,29311.19
+34,2025-04-09,Southeast,"Customer 058","Analytics Platform",Technology,5,2253.94,11269.7,7264.08
+35,2025-05-08,Northeast,"Customer 071","Cloud Software",Technology,4,490.29,1961.16,1568.7
+36,2025-01-08,Southwest,"Customer 022","Cloud Software",Technology,14,2556.8,35795.2,24133.11
+37,2025-07-25,Southwest,"Customer 049","Cloud Software",Technology,1,4930.22,4930.22,3364.54
+38,2025-08-21,Northeast,"Customer 072",Consulting,Services,16,985.28,15764.48,6581.25
+39,2025-01-30,Southeast,"Customer 008",Support,Services,11,521.54,5736.94,3519.43
+40,2025-09-15,Southwest,"Customer 008",Support,Services,17,630.53,10719.01,5892.58
+41,2025-11-01,Southwest,"Customer 052","Cloud Software",Technology,4,4722.58,18890.32,13811.62
+42,2025-10-24,West,"Customer 080",Support,Services,3,2241.32,6723.96,4124.39
+43,2025-09-25,Midwest,"Customer 027",Consulting,Services,11,1383.76,15221.36,6595.81
+44,2025-12-10,Northeast,"Customer 041",Consulting,Services,3,294.25,882.75,414.35
+45,2025-10-16,West,"Customer 069","Cloud Software",Technology,7,2652.95,18570.65,12278.78
+46,2025-06-28,Southwest,"Customer 048","Cloud Software",Technology,10,999.3,9993.0,7728.58
+47,2025-12-27,Southeast,"Customer 068",Consulting,Services,1,3422.35,3422.35,1569.96
+48,2025-12-06,Southwest,"Customer 034","Cloud Software",Technology,4,4476.14,17904.56,13585.74
+49,2025-03-21,Midwest,"Customer 078",Consulting,Services,7,3658.66,25610.62,10310.21
+50,2025-11-21,Southeast,"Customer 063",Consulting,Services,9,4550.35,40953.15,20696.76
+51,2025-02-17,Midwest,"Customer 006",Implementation,Services,1,1834.39,1834.39,845.53
+52,2025-05-15,Northeast,"Customer 071","Analytics Platform",Technology,14,2914.31,40800.34,25210.52
+53,2025-12-20,Southeast,"Customer 005","Analytics Platform",Technology,12,3016.92,36203.04,22579.66
+54,2025-03-07,Midwest,"Customer 047","Cloud Software",Technology,2,4519.89,9039.78,6089.31
+55,2025-05-08,Midwest,"Customer 072","Cloud Software",Technology,14,4875.73,68260.22,51872.06
+56,2025-05-02,Southwest,"Customer 053","Analytics Platform",Technology,1,1101.96,1101.96,824.18
+57,2025-07-30,Midwest,"Customer 021","Analytics Platform",Technology,4,2067.07,8268.28,5012.2
+58,2025-08-29,Southwest,"Customer 059","Analytics Platform",Technology,12,1699.66,20395.92,14833.04
+59,2025-04-27,West,"Customer 025","Analytics Platform",Technology,13,1809.24,23520.12,17364.82
+60,2025-05-23,Southeast,"Customer 052",Consulting,Services,18,1822.96,32813.28,12285.82
+61,2025-05-14,Southeast,"Customer 034","Analytics Platform",Technology,2,764.91,1529.82,1024.26
+62,2025-06-10,Southeast,"Customer 066",Implementation,Services,4,2079.68,8318.72,4427.67
+63,2025-05-11,Northeast,"Customer 001","Cloud Software",Technology,17,4646.48,78990.16,57358.89
+64,2025-12-10,Midwest,"Customer 056","Analytics Platform",Technology,3,4757.15,14271.45,10665.39
+65,2025-11-16,West,"Customer 039",Consulting,Services,17,1719.1,29224.7,12722.76
+66,2025-07-26,Southeast,"Customer 017",Consulting,Services,7,2247.12,15729.84,8186.72
+67,2025-12-13,Southeast,"Customer 073","Analytics Platform",Technology,10,2178.86,21788.6,15979.67
+68,2025-06-05,Southwest,"Customer 056",Consulting,Services,19,3131.64,59501.16,25083.3
+69,2025-08-15,Southwest,"Customer 066",Implementation,Services,16,4020.24,64323.84,38180.9
+70,2025-03-28,Midwest,"Customer 066","Cloud Software",Technology,20,1842.14,36842.8,28403.87
+71,2025-05-01,Southwest,"Customer 026",Consulting,Services,5,366.02,1830.1,748.83
+72,2025-09-01,West,"Customer 059",Support,Services,14,4459.15,62428.1,38212.7
+73,2025-12-23,Northeast,"Customer 052",Implementation,Services,8,950.96,7607.68,4184.37
+74,2025-02-24,Southwest,"Customer 023",Implementation,Services,17,2456.61,41762.37,22100.02
+75,2025-03-04,Southwest,"Customer 060",Implementation,Services,17,4942.49,84022.33,44974.83
+76,2025-08-15,Southeast,"Customer 055",Support,Services,18,2368.09,42625.62,23250.8
+77,2025-09-01,Midwest,"Customer 032",Implementation,Services,9,3887.62,34988.58,18313.3
+78,2025-11-17,Midwest,"Customer 057","Analytics Platform",Technology,3,3639.34,10918.02,6960.44
+79,2025-06-21,Southeast,"Customer 011",Consulting,Services,5,966.45,4832.25,2084.08
+80,2025-03-20,West,"Customer 054","Analytics Platform",Technology,14,1821.69,25503.66,17203.44
+81,2025-02-01,Northeast,"Customer 050","Analytics Platform",Technology,19,4743.79,90132.01,54360.88
+82,2025-10-22,Northeast,"Customer 001",Implementation,Services,12,1668.41,20020.92,10058.47
+83,2025-08-03,Southeast,"Customer 078",Support,Services,8,2569.09,20552.72,11584.94
+84,2025-09-06,Northeast,"Customer 044","Cloud Software",Technology,13,3689.86,47968.18,37150.44
+85,2025-03-07,Southeast,"Customer 004",Support,Services,13,3061.49,39799.37,24917.59
+86,2025-02-12,Southwest,"Customer 060",Implementation,Services,6,488.85,2933.1,1468.48
+87,2025-04-19,Midwest,"Customer 044",Implementation,Services,13,1571.72,20432.36,12099.89
+88,2025-08-04,West,"Customer 061",Consulting,Services,1,3807.87,3807.87,1440.65
+89,2025-06-29,West,"Customer 006","Analytics Platform",Technology,1,4760.66,4760.66,3008.25
+90,2025-01-11,Southwest,"Customer 031",Support,Services,5,2499.42,12497.1,6727.22
+91,2025-04-22,Midwest,"Customer 048",Implementation,Services,6,3127.99,18767.94,11151.86
+92,2025-02-28,Midwest,"Customer 014","Analytics Platform",Technology,19,371.97,7067.43,4593.22
+93,2025-12-13,Northeast,"Customer 026",Implementation,Services,3,3062.46,9187.38,5263.37
+94,2025-05-05,Midwest,"Customer 077","Cloud Software",Technology,4,4032.08,16128.32,11782.53
+95,2025-01-22,Southeast,"Customer 055",Consulting,Services,12,577.54,6930.48,3282.32
+96,2025-01-07,Northeast,"Customer 014",Implementation,Services,14,4813.74,67392.36,36506.01
+97,2025-08-24,Northeast,"Customer 023","Analytics Platform",Technology,17,4836.0,82212.0,52879.84
+98,2025-10-03,Northeast,"Customer 056",Implementation,Services,19,1524.88,28972.72,16696.23
+99,2025-02-14,Northeast,"Customer 032",Consulting,Services,15,2956.79,44351.85,21151.85
+100,2025-06-22,Northeast,"Customer 042","Cloud Software",Technology,6,2565.86,15395.16,10726.92
+101,2025-05-13,Midwest,"Customer 077",Consulting,Services,9,2890.01,26010.09,11773.74
+102,2025-04-08,Southwest,"Customer 053","Cloud Software",Technology,16,2887.09,46193.44,31340.02
+103,2025-09-01,Northeast,"Customer 003",Implementation,Services,3,1647.62,4942.86,2494.68
+104,2025-05-05,Southeast,"Customer 048",Consulting,Services,16,2879.0,46064.0,19577.25
+105,2025-10-09,Midwest,"Customer 059",Consulting,Services,9,1706.46,15358.14,6249.01
+106,2025-04-09,West,"Customer 069",Consulting,Services,6,1159.82,6958.92,3397.18
+107,2025-05-22,Southeast,"Customer 077",Support,Services,10,4907.43,49074.3,32056.34
+108,2025-06-01,Midwest,"Customer 023","Analytics Platform",Technology,10,317.2,3172.0,2174.28
+109,2025-05-21,West,"Customer 071","Cloud Software",Technology,10,3562.73,35627.3,23521.31
+110,2025-09-09,West,"Customer 074","Cloud Software",Technology,10,2479.64,24796.4,17617.22
+111,2025-04-05,Midwest,"Customer 062","Cloud Software",Technology,4,4155.05,16620.2,11702.5
+112,2025-02-07,West,"Customer 020",Support,Services,5,4102.92,20514.6,13782.94
+113,2025-02-13,West,"Customer 072","Analytics Platform",Technology,14,3130.01,43820.14,31836.14
+114,2025-04-26,Northeast,"Customer 058",Support,Services,15,1662.43,24936.45,15315.07
+115,2025-08-08,Southeast,"Customer 080",Consulting,Services,2,3145.75,6291.5,3072.86
+116,2025-04-17,Midwest,"Customer 011","Analytics Platform",Technology,6,1389.36,8336.16,5737.94
+117,2025-03-22,Northeast,"Customer 058","Cloud Software",Technology,20,2482.08,49641.6,32029.87
+118,2025-05-28,Northeast,"Customer 010",Consulting,Services,8,4638.58,37108.64,18407.83
+119,2025-11-17,Southwest,"Customer 055",Support,Services,4,2836.67,11346.68,7076.03
+120,2025-05-17,West,"Customer 008","Analytics Platform",Technology,6,4014.99,24089.94,16747.5
+121,2025-10-19,Northeast,"Customer 016",Consulting,Services,15,3521.22,52818.3,25456.17
+122,2025-05-20,Southeast,"Customer 064",Support,Services,15,632.1,9481.5,4990.85
+123,2025-08-10,Southeast,"Customer 033",Consulting,Services,1,683.8,683.8,358.25
+124,2025-10-22,West,"Customer 035",Support,Services,19,441.1,8380.9,5372.18
+125,2025-08-29,Northeast,"Customer 036",Support,Services,6,4985.49,29912.94,17640.91
+126,2025-09-09,Northeast,"Customer 045","Cloud Software",Technology,14,1833.21,25664.94,19177.39
+127,2025-03-24,Northeast,"Customer 064",Consulting,Services,10,3397.27,33972.7,14746.61
+128,2025-10-09,Northeast,"Customer 012","Cloud Software",Technology,11,1448.89,15937.79,10495.79
+129,2025-07-26,West,"Customer 070",Support,Services,15,2212.93,33193.95,18257.11
+130,2025-07-05,Northeast,"Customer 057",Support,Services,2,1216.9,2433.8,1479.45
+131,2025-05-28,Northeast,"Customer 016",Implementation,Services,1,4872.45,4872.45,2618.55
+132,2025-05-03,Midwest,"Customer 071","Analytics Platform",Technology,1,2873.19,2873.19,1766.76
+133,2025-02-28,West,"Customer 020",Implementation,Services,16,4680.1,74881.6,36444.71
+134,2025-12-28,Northeast,"Customer 062",Consulting,Services,16,1407.72,22523.52,10320.33
+135,2025-07-16,Southeast,"Customer 066","Analytics Platform",Technology,5,4354.13,21770.65,14024.64
+136,2025-08-01,Southeast,"Customer 035",Consulting,Services,1,1593.49,1593.49,665.71
+137,2025-10-28,Northeast,"Customer 020",Support,Services,15,2808.26,42123.9,24230.5
+138,2025-10-10,Northeast,"Customer 059",Support,Services,11,4380.61,48186.71,32618.74
+139,2025-05-03,Northeast,"Customer 030",Support,Services,14,457.32,6402.48,4092.16
+140,2025-12-28,Northeast,"Customer 020",Implementation,Services,16,4832.92,77326.72,35585.71
+141,2025-10-30,West,"Customer 057",Consulting,Services,4,2748.27,10993.08,4871.13
+142,2025-03-15,Southwest,"Customer 010",Implementation,Services,16,3962.25,63396.0,30582.46
+143,2025-11-16,West,"Customer 043",Implementation,Services,18,2055.04,36990.72,18150.08
+144,2025-09-07,West,"Customer 080",Support,Services,3,1365.16,4095.48,2578.12
+145,2025-05-28,West,"Customer 056","Analytics Platform",Technology,4,3861.76,15447.04,11007.91
+146,2025-02-21,Southwest,"Customer 039",Implementation,Services,1,468.46,468.46,265.8
+147,2025-05-31,Midwest,"Customer 056",Consulting,Services,5,1409.94,7049.7,3073.16
+148,2025-12-16,Southwest,"Customer 023","Analytics Platform",Technology,3,3145.09,9435.27,6238.67
+149,2025-12-16,Northeast,"Customer 075","Analytics Platform",Technology,5,1352.9,6764.5,4749.12
+150,2025-08-24,West,"Customer 060",Consulting,Services,10,3468.65,34686.5,13710.74
+151,2025-08-15,Southeast,"Customer 039",Consulting,Services,14,3528.99,49405.86,21891.43
+152,2025-06-04,Northeast,"Customer 062","Analytics Platform",Technology,4,1376.73,5506.92,3808.08
+153,2025-10-22,Midwest,"Customer 003",Consulting,Services,13,1553.78,20199.14,9302.69
+154,2025-12-18,Southeast,"Customer 064","Cloud Software",Technology,10,3934.77,39347.7,26631.27
+155,2025-06-30,Southwest,"Customer 080","Analytics Platform",Technology,9,3469.38,31224.42,22336.34
+156,2025-12-04,West,"Customer 006","Analytics Platform",Technology,10,3995.9,39959.0,24188.71
+157,2025-07-06,West,"Customer 038","Analytics Platform",Technology,11,3800.53,41805.83,26258.34
+158,2025-03-09,Midwest,"Customer 068",Support,Services,17,4589.06,78014.02,50933.45
+159,2025-05-12,Midwest,"Customer 044",Implementation,Services,4,2474.57,9898.28,4474.5
+160,2025-04-26,Southeast,"Customer 047",Implementation,Services,3,4005.74,12017.22,5314.34
+161,2025-10-02,Northeast,"Customer 048","Cloud Software",Technology,9,3026.66,27239.94,21017.98
+162,2025-07-10,Southwest,"Customer 061","Cloud Software",Technology,1,3192.85,3192.85,2525.25
+163,2025-06-17,Southwest,"Customer 009",Support,Services,15,4569.59,68543.85,38956.93
+164,2025-07-29,Southwest,"Customer 006","Cloud Software",Technology,2,1695.73,3391.46,2437.85
+165,2025-02-19,Southeast,"Customer 018","Analytics Platform",Technology,13,2404.81,31262.53,22111.29
+166,2025-12-23,Northeast,"Customer 076",Support,Services,5,4455.72,22278.6,13919.39
+167,2025-09-08,Northeast,"Customer 036",Support,Services,2,3528.83,7057.66,3915.33
+168,2025-08-16,Midwest,"Customer 013","Analytics Platform",Technology,12,2836.21,34034.52,25745.58
+169,2025-07-03,Northeast,"Customer 036","Cloud Software",Technology,7,4848.98,33942.86,26877.37
+170,2025-08-21,Southwest,"Customer 077","Cloud Software",Technology,1,490.25,490.25,339.92
+171,2025-03-06,Southwest,"Customer 009",Support,Services,18,1234.0,22212.0,12317.71
+172,2025-04-30,Southwest,"Customer 077",Consulting,Services,1,1567.06,1567.06,826.54
+173,2025-03-08,Midwest,"Customer 023",Support,Services,4,3390.02,13560.08,7107.17
+174,2025-01-08,Southwest,"Customer 076",Consulting,Services,11,324.96,3574.56,1474.36
+175,2025-03-06,Southeast,"Customer 015",Implementation,Services,3,2512.17,7536.51,4254.23
+176,2025-09-20,West,"Customer 058",Support,Services,17,1302.36,22140.12,13691.83
+177,2025-12-04,Midwest,"Customer 059",Support,Services,1,538.92,538.92,321.54
+178,2025-07-25,West,"Customer 063",Implementation,Services,15,599.08,8986.2,4070.09
+179,2025-11-08,West,"Customer 017","Analytics Platform",Technology,9,3215.51,28939.59,20074.19
+180,2025-12-31,Northeast,"Customer 077",Consulting,Services,17,1650.76,28062.92,12653.24
+181,2025-08-09,West,"Customer 071","Cloud Software",Technology,7,2292.83,16049.81,12552.47
+182,2025-07-31,Northeast,"Customer 052",Consulting,Services,14,3715.66,52019.24,21848.48
+183,2025-06-10,Midwest,"Customer 020",Consulting,Services,16,568.88,9102.08,4579.11
+184,2025-02-17,West,"Customer 048",Implementation,Services,5,2892.76,14463.8,7721.27
+185,2025-10-15,Midwest,"Customer 016",Support,Services,14,1929.59,27014.26,16923.2
+186,2025-08-05,Midwest,"Customer 077","Cloud Software",Technology,10,1920.32,19203.2,14065.71
+187,2025-04-19,Northeast,"Customer 029","Analytics Platform",Technology,4,1913.04,7652.16,5272.36
+188,2025-02-28,Southeast,"Customer 029",Consulting,Services,14,4264.49,59702.86,31399.37
+189,2025-11-15,Southeast,"Customer 004",Support,Services,20,4663.15,93263.0,60874.04
+190,2025-05-17,Southwest,"Customer 035","Cloud Software",Technology,10,4627.3,46273.0,32213.59
+191,2025-04-03,Southeast,"Customer 052","Analytics Platform",Technology,3,923.9,2771.7,1943.81
+192,2025-01-16,Southeast,"Customer 028","Cloud Software",Technology,13,2244.2,29174.6,20263.02
+193,2025-07-09,Midwest,"Customer 073",Consulting,Services,20,653.55,13071.0,4946.29
+194,2025-03-22,West,"Customer 011",Support,Services,9,2354.79,21193.11,12458.21
+195,2025-11-07,Northeast,"Customer 035",Implementation,Services,7,3835.98,26851.86,12303.81
+196,2025-08-09,Midwest,"Customer 076","Cloud Software",Technology,16,2752.94,44047.04,30363.7
+197,2025-04-23,Southeast,"Customer 008",Implementation,Services,1,1221.01,1221.01,721.92
+198,2025-03-12,Midwest,"Customer 042",Consulting,Services,4,286.72,1146.88,561.42
+199,2025-03-31,Northeast,"Customer 069","Analytics Platform",Technology,8,2626.25,21010.0,15407.4
+200,2025-07-01,Northeast,"Customer 006","Cloud Software",Technology,14,339.02,4746.28,3737.15
+201,2025-06-10,Northeast,"Customer 074",Support,Services,13,3620.12,47061.56,27617.18
+202,2025-02-28,West,"Customer 042",Implementation,Services,6,4056.28,24337.68,13115.58
+203,2025-12-20,West,"Customer 056",Consulting,Services,4,1405.75,5623.0,2610.31
+204,2025-09-26,Northeast,"Customer 040","Cloud Software",Technology,11,1302.47,14327.17,10955.4
+205,2025-02-09,West,"Customer 068",Support,Services,17,1171.04,19907.68,12824.46
+206,2025-06-29,Southwest,"Customer 014","Analytics Platform",Technology,5,1465.85,7329.25,4601.01
+207,2025-03-20,Southwest,"Customer 064","Cloud Software",Technology,15,3833.62,57504.3,43794.14
+208,2025-08-18,Southeast,"Customer 042",Support,Services,11,967.05,10637.55,5647.75
+209,2025-08-15,Midwest,"Customer 076",Consulting,Services,2,1921.73,3843.46,1467.7
+210,2025-08-25,West,"Customer 008",Implementation,Services,12,4200.56,50406.72,22797.8
+211,2025-02-16,Southeast,"Customer 065",Support,Services,13,2447.88,31822.44,19370.02
+212,2025-01-22,Southeast,"Customer 025",Implementation,Services,11,3123.78,34361.58,17875.54
+213,2025-02-01,West,"Customer 044",Implementation,Services,3,2646.61,7939.83,3712.74
+214,2025-05-07,Northeast,"Customer 068",Implementation,Services,17,3146.58,53491.86,26650.91
+215,2025-05-25,Northeast,"Customer 044",Implementation,Services,20,498.74,9974.8,5395.79
+216,2025-06-21,Midwest,"Customer 013","Cloud Software",Technology,18,3472.3,62501.4,42842.43
+217,2025-12-03,Southwest,"Customer 043",Support,Services,3,3018.01,9054.03,4912.98
+218,2025-06-29,Northeast,"Customer 017",Consulting,Services,20,3616.96,72339.2,27746.06
+219,2025-10-14,Midwest,"Customer 017",Implementation,Services,17,693.9,11796.3,6455.8
+220,2025-09-18,West,"Customer 047",Consulting,Services,10,1106.25,11062.5,4472.25
+221,2025-09-06,Southwest,"Customer 018","Analytics Platform",Technology,5,616.53,3082.65,2266.08
+222,2025-02-21,Southeast,"Customer 068",Support,Services,2,3394.16,6788.32,4481.8
+223,2025-11-13,Southeast,"Customer 049","Analytics Platform",Technology,5,1020.67,5103.35,3740.83
+224,2025-11-16,Northeast,"Customer 006","Analytics Platform",Technology,14,1980.42,27725.88,19827.71
+225,2025-08-16,Midwest,"Customer 058",Support,Services,8,2786.55,22292.4,12695.85
+226,2025-08-29,Midwest,"Customer 074","Analytics Platform",Technology,15,2442.98,36644.7,23638.89
+227,2025-07-15,Southeast,"Customer 054",Support,Services,6,4130.23,24781.38,16063.33
+228,2025-03-12,West,"Customer 062",Consulting,Services,12,2884.07,34608.84,13373.35
+229,2025-09-22,Midwest,"Customer 011","Cloud Software",Technology,6,1545.76,9274.56,7279.13
+230,2025-03-17,West,"Customer 029",Implementation,Services,15,4451.99,66779.85,39325.02
+231,2025-08-01,Northeast,"Customer 065","Cloud Software",Technology,12,1369.95,16439.4,13137.12
+232,2025-07-11,West,"Customer 041","Analytics Platform",Technology,4,4236.09,16944.36,11928.72
+233,2025-03-16,West,"Customer 037","Analytics Platform",Technology,16,3556.34,56901.44,35404.46
+234,2025-12-28,Northeast,"Customer 079",Implementation,Services,1,4552.82,4552.82,2017.08
+235,2025-04-21,Southeast,"Customer 078","Analytics Platform",Technology,17,2260.46,38427.82,27828.95
+236,2025-05-02,West,"Customer 007",Consulting,Services,8,2244.17,17953.36,8923.25
+237,2025-08-23,West,"Customer 064","Cloud Software",Technology,20,2796.26,55925.2,41446.88
+238,2025-10-22,Southwest,"Customer 038","Analytics Platform",Technology,14,257.43,3604.02,2365.86
+239,2025-10-20,Southwest,"Customer 011",Implementation,Services,17,4879.61,82953.37,37397.76
+240,2025-09-27,Southeast,"Customer 065",Support,Services,18,346.59,6238.62,4115.82
+241,2025-01-23,Midwest,"Customer 033",Implementation,Services,1,1946.2,1946.2,877.37
+242,2025-05-04,Southeast,"Customer 043","Cloud Software",Technology,5,460.59,2302.95,1675.08
+243,2025-11-26,Northeast,"Customer 062","Analytics Platform",Technology,6,4104.61,24627.66,15025.24
+244,2025-08-23,Midwest,"Customer 026","Cloud Software",Technology,2,4007.77,8015.54,6265.96
+245,2025-06-11,Southeast,"Customer 051",Consulting,Services,18,2498.65,44975.7,16904.54
+246,2025-11-28,Midwest,"Customer 046","Analytics Platform",Technology,2,4362.54,8725.08,5698.42
+247,2025-03-05,Northeast,"Customer 052",Consulting,Services,15,4499.53,67492.95,29147.72
+248,2025-04-06,Northeast,"Customer 048",Implementation,Services,17,1516.92,25787.64,11687.42
+249,2025-08-06,Northeast,"Customer 078","Cloud Software",Technology,6,2841.0,17046.0,11785.5
+250,2025-02-10,Midwest,"Customer 040",Consulting,Services,15,3112.45,46686.75,20457.13
+251,2025-12-20,Midwest,"Customer 058",Implementation,Services,2,3702.37,7404.74,4338.12
+252,2025-11-11,Midwest,"Customer 008",Implementation,Services,3,3438.12,10314.36,5208.69
+253,2025-09-20,West,"Customer 019","Analytics Platform",Technology,20,3470.92,69418.4,46517.8
+254,2025-03-06,Southwest,"Customer 047","Cloud Software",Technology,12,2068.56,24822.72,18139.43
+255,2025-11-06,Northeast,"Customer 048","Analytics Platform",Technology,12,2358.71,28304.52,17330.9
+256,2025-03-12,Midwest,"Customer 051",Support,Services,11,3335.41,36689.51,20543.85
+257,2025-02-28,Southwest,"Customer 064","Cloud Software",Technology,17,2088.19,35499.23,25909.74
+258,2025-05-15,Northeast,"Customer 028",Consulting,Services,20,1606.49,32129.8,16599.43
+259,2025-09-09,West,"Customer 018","Analytics Platform",Technology,3,2397.2,7191.6,5349.03
+260,2025-08-16,Midwest,"Customer 045","Cloud Software",Technology,3,2862.49,8587.47,5894.94
+261,2025-06-03,Southwest,"Customer 047","Analytics Platform",Technology,17,1315.15,22357.55,16938.55
+262,2025-03-13,Northeast,"Customer 004","Analytics Platform",Technology,12,2881.6,34579.2,22788.58
+263,2025-10-10,Southeast,"Customer 012","Analytics Platform",Technology,3,1719.13,5157.39,3919.28
+264,2025-09-03,Northeast,"Customer 053",Support,Services,19,600.32,11406.08,7705.73
+265,2025-11-25,Northeast,"Customer 060","Cloud Software",Technology,17,1886.45,32069.65,25029.52
+266,2025-10-10,Southwest,"Customer 017",Support,Services,14,2638.6,36940.4,24340.54
+267,2025-03-05,Southwest,"Customer 039",Support,Services,6,1019.34,6116.04,4095.04
+268,2025-04-26,Southeast,"Customer 037",Consulting,Services,3,1440.38,4321.14,2037.89
+269,2025-10-10,Southwest,"Customer 039",Consulting,Services,20,2784.02,55680.4,25079.1
+270,2025-03-28,Southeast,"Customer 020",Support,Services,6,3378.98,20273.88,12880.02
+271,2025-11-06,Southeast,"Customer 006",Consulting,Services,1,635.81,635.81,331.74
+272,2025-10-23,Southwest,"Customer 074",Consulting,Services,14,3186.02,44604.28,16719.72
+273,2025-11-18,Midwest,"Customer 039",Support,Services,16,1413.17,22610.72,14678.33
+274,2025-07-27,Northeast,"Customer 010",Consulting,Services,2,1000.88,2001.76,873.77
+275,2025-08-26,Midwest,"Customer 078","Analytics Platform",Technology,5,1734.77,8673.85,6201.27
+276,2025-06-26,Southwest,"Customer 048",Implementation,Services,17,2917.84,49603.28,24358.11
+277,2025-08-27,Midwest,"Customer 058","Cloud Software",Technology,8,919.17,7353.36,4765.69
+278,2025-07-16,Northeast,"Customer 032",Support,Services,6,4114.02,24684.12,16523.56
+279,2025-06-10,Southwest,"Customer 064","Analytics Platform",Technology,17,2467.37,41945.29,31066.87
+280,2025-09-12,West,"Customer 051","Cloud Software",Technology,17,2421.85,41171.45,27935.51
+281,2025-10-26,West,"Customer 007",Consulting,Services,10,2600.75,26007.5,13294.37
+282,2025-12-01,Midwest,"Customer 069",Implementation,Services,1,4274.07,4274.07,2175.28
+283,2025-05-16,Northeast,"Customer 047",Consulting,Services,2,2152.76,4305.52,1985.9
+284,2025-04-10,Southeast,"Customer 037",Consulting,Services,3,2085.16,6255.48,2765.28
+285,2025-10-09,Southeast,"Customer 079",Consulting,Services,4,861.15,3444.6,1327.79
+286,2025-07-11,Southeast,"Customer 047",Consulting,Services,5,1195.52,5977.6,2698.64
+287,2025-09-14,West,"Customer 005","Cloud Software",Technology,5,3639.56,18197.8,13987.46
+288,2025-09-23,Southwest,"Customer 078",Implementation,Services,17,913.96,15537.32,9151.78
+289,2025-06-13,Northeast,"Customer 079","Analytics Platform",Technology,10,3070.19,30701.9,20913.23
+290,2025-09-18,Northeast,"Customer 073",Support,Services,10,2505.74,25057.4,13096.55
+291,2025-06-19,Northeast,"Customer 075","Cloud Software",Technology,10,4034.59,40345.9,30503.59
+292,2025-12-19,Southeast,"Customer 061","Cloud Software",Technology,9,4843.59,43592.31,33359.65
+293,2025-10-24,Southwest,"Customer 007",Support,Services,19,2532.13,48110.47,29052.81
+294,2025-11-14,Southwest,"Customer 032",Implementation,Services,2,2969.71,5939.42,3279.05
+295,2025-04-08,Northeast,"Customer 041","Cloud Software",Technology,14,969.3,13570.2,10184.16
+296,2025-07-30,Southeast,"Customer 061",Support,Services,2,3602.43,7204.86,4344.45
+297,2025-10-15,Northeast,"Customer 068",Consulting,Services,13,1740.32,22624.16,8997.84
+298,2025-09-30,Southeast,"Customer 046",Consulting,Services,9,3147.86,28330.74,11353.89
+299,2025-05-07,Southeast,"Customer 039",Consulting,Services,8,4722.06,37776.48,19914.31
+300,2025-05-28,Northeast,"Customer 041","Analytics Platform",Technology,16,1906.82,30509.12,22863.29
+301,2025-05-21,West,"Customer 074",Consulting,Services,18,2053.55,36963.9,19473.53
+302,2025-06-26,Midwest,"Customer 006","Analytics Platform",Technology,10,4787.74,47877.4,29331.84
+303,2025-08-15,Northeast,"Customer 028",Consulting,Services,7,4182.77,29279.39,12103.55
+304,2025-10-15,Southwest,"Customer 014",Consulting,Services,20,3769.23,75384.6,30778.41
+305,2025-01-26,Southwest,"Customer 030",Support,Services,2,725.94,1451.88,831.71
+306,2025-08-30,Southwest,"Customer 001","Cloud Software",Technology,18,4895.08,88111.44,58617.95
+307,2025-12-01,Northeast,"Customer 026",Implementation,Services,10,1775.55,17755.5,9647.34
+308,2025-02-15,Southwest,"Customer 069",Support,Services,2,4587.84,9175.68,5028.37
+309,2025-04-01,Northeast,"Customer 064","Cloud Software",Technology,6,4698.89,28193.34,22383.85
+310,2025-05-29,West,"Customer 039","Cloud Software",Technology,19,3113.22,59151.18,46643.83
+311,2025-06-21,Northeast,"Customer 070",Consulting,Services,17,2596.08,44133.36,22956.84
+312,2025-09-16,Midwest,"Customer 025",Implementation,Services,4,1820.75,7283.0,4056.48
+313,2025-11-28,Southwest,"Customer 002",Consulting,Services,11,4006.15,44067.65,20308.36
+314,2025-04-09,Southeast,"Customer 052","Analytics Platform",Technology,14,2697.58,37766.12,23183.79
+315,2025-12-09,Southwest,"Customer 018","Cloud Software",Technology,16,1787.11,28593.76,19434.82
+316,2025-05-14,Southwest,"Customer 058",Implementation,Services,9,4781.67,43035.03,21014.49
+317,2025-10-21,Midwest,"Customer 047","Cloud Software",Technology,8,545.09,4360.72,2873.35
+318,2025-06-07,Northeast,"Customer 065","Analytics Platform",Technology,10,3528.88,35288.8,24779.58
+319,2025-06-01,Southeast,"Customer 029",Consulting,Services,8,4797.46,38379.68,17136.88
+320,2025-08-21,Midwest,"Customer 054",Support,Services,18,4585.79,82544.22,52925.38
+321,2025-12-07,Southwest,"Customer 077","Analytics Platform",Technology,3,2746.16,8238.48,5639.3
+322,2025-07-05,Southeast,"Customer 015","Cloud Software",Technology,2,4186.68,8373.36,6568.58
+323,2025-04-14,Southeast,"Customer 020",Support,Services,6,1808.56,10851.36,6546.13
+324,2025-03-01,Southeast,"Customer 063","Analytics Platform",Technology,3,4519.72,13559.16,9101.96
+325,2025-01-29,Southwest,"Customer 066",Implementation,Services,14,2419.79,33877.06,15218.86
+326,2025-08-25,West,"Customer 051",Consulting,Services,9,4128.15,37153.35,18180.2
+327,2025-10-24,West,"Customer 055","Cloud Software",Technology,12,3576.83,42921.96,31186.5
+328,2025-01-31,Northeast,"Customer 005","Cloud Software",Technology,10,2192.12,21921.2,16726.65
+329,2025-11-25,Midwest,"Customer 049",Implementation,Services,15,4380.7,65710.5,38446.08
+330,2025-07-12,Southeast,"Customer 018","Cloud Software",Technology,12,813.51,9762.12,7798.52
+331,2025-07-21,Southwest,"Customer 029",Support,Services,1,3841.85,3841.85,2599.24
+332,2025-08-26,Northeast,"Customer 069",Support,Services,13,4160.96,54092.48,30270.26
+333,2025-06-27,Midwest,"Customer 025","Analytics Platform",Technology,4,403.03,1612.12,1137.56
+334,2025-11-11,Southwest,"Customer 027","Cloud Software",Technology,3,729.26,2187.78,1411.93
+335,2025-11-03,Southwest,"Customer 006","Cloud Software",Technology,13,2335.07,30355.91,22049.37
+336,2025-01-29,Southeast,"Customer 038","Analytics Platform",Technology,8,4124.98,32999.84,23662.3
+337,2025-06-13,Southeast,"Customer 042",Support,Services,8,1683.38,13467.04,7311.55
+338,2025-12-05,Southwest,"Customer 053",Support,Services,10,1556.98,15569.8,9483.17
+339,2025-10-30,Northeast,"Customer 072","Analytics Platform",Technology,16,472.7,7563.2,4954.7
+340,2025-11-26,Southeast,"Customer 041",Implementation,Services,14,2189.23,30649.22,14956.27
+341,2025-04-05,Northeast,"Customer 031",Support,Services,8,1678.5,13428.0,8502.77
+342,2025-08-26,Southeast,"Customer 053","Cloud Software",Technology,14,2897.11,40559.54,26828.3
+343,2025-05-05,Southwest,"Customer 043",Consulting,Services,3,4630.57,13891.71,7022.83
+344,2025-02-17,Southwest,"Customer 007",Support,Services,9,2041.55,18373.95,11332.96
+345,2025-01-21,Southwest,"Customer 076","Cloud Software",Technology,18,1280.83,23054.94,15525.71
+346,2025-06-20,West,"Customer 028",Consulting,Services,7,4819.87,33739.09,13116.77
+347,2025-09-03,Southeast,"Customer 027","Analytics Platform",Technology,13,4596.85,59759.05,41134.11
+348,2025-05-25,Northeast,"Customer 069",Implementation,Services,12,1715.01,20580.12,10239.5
+349,2025-09-12,West,"Customer 061",Implementation,Services,11,4593.07,50523.77,25227.16
+350,2025-07-31,Southeast,"Customer 029","Cloud Software",Technology,5,327.04,1635.2,1191.29
+351,2025-10-27,Northeast,"Customer 038",Support,Services,5,1181.91,5909.55,3290.46
+352,2025-10-19,Northeast,"Customer 071","Analytics Platform",Technology,11,1472.3,16195.3,11846.13
+353,2025-11-25,Northeast,"Customer 022",Implementation,Services,12,1054.01,12648.12,7022.87
+354,2025-09-08,Southeast,"Customer 008","Analytics Platform",Technology,17,410.66,6981.22,5134.49
+355,2025-12-09,West,"Customer 053","Cloud Software",Technology,5,4252.09,21260.45,14393.95
+356,2025-12-29,West,"Customer 028","Analytics Platform",Technology,17,2416.05,41072.85,25040.97
+357,2025-11-23,Northeast,"Customer 063",Support,Services,1,281.41,281.41,171.17
+358,2025-01-07,Southeast,"Customer 036","Cloud Software",Technology,18,4893.03,88074.54,56609.28
+359,2025-12-24,Southwest,"Customer 014",Implementation,Services,4,2740.83,10963.32,5246.55
+360,2025-11-14,Midwest,"Customer 046",Support,Services,9,4025.95,36233.55,19299.55
+361,2025-07-27,Southeast,"Customer 032",Implementation,Services,8,1674.88,13399.04,7670.82
+362,2025-02-11,West,"Customer 052","Cloud Software",Technology,13,2041.56,26540.28,19007.11
+363,2025-11-23,Southwest,"Customer 011","Cloud Software",Technology,16,4265.32,68245.12,50718.76
+364,2025-06-19,West,"Customer 068",Support,Services,2,1341.39,2682.78,1781.91
+365,2025-12-21,Northeast,"Customer 035",Support,Services,2,4639.76,9279.52,5841.54
+366,2025-05-24,Southeast,"Customer 005",Support,Services,6,4661.64,27969.84,15951.69
+367,2025-04-17,Southwest,"Customer 051",Support,Services,3,1671.57,5014.71,3060.14
+368,2025-10-18,Southeast,"Customer 043",Implementation,Services,13,3839.14,49908.82,23077.44
+369,2025-12-19,Southeast,"Customer 045","Cloud Software",Technology,2,714.01,1428.02,966.97
+370,2025-02-08,Southeast,"Customer 079",Consulting,Services,20,2134.34,42686.8,21077.41
+371,2025-01-16,Northeast,"Customer 063",Consulting,Services,8,1940.1,15520.8,8079.86
+372,2025-08-10,Southeast,"Customer 049","Analytics Platform",Technology,3,3917.8,11753.4,7607.51
+373,2025-05-07,West,"Customer 035","Cloud Software",Technology,5,2055.0,10275.0,7864.72
+374,2025-03-20,Midwest,"Customer 047",Implementation,Services,4,684.72,2738.88,1618.33
+375,2025-08-16,Midwest,"Customer 014",Consulting,Services,5,664.66,3323.3,1458.78
+376,2025-10-13,Southeast,"Customer 053",Support,Services,4,374.74,1498.96,864.34
+377,2025-02-17,Southeast,"Customer 042",Support,Services,13,308.62,4012.06,2351.91
+378,2025-02-13,Southwest,"Customer 074",Support,Services,17,1055.52,17943.84,10423.88
+379,2025-03-13,Midwest,"Customer 035",Consulting,Services,16,943.19,15091.04,5987.42
+380,2025-05-22,Midwest,"Customer 062",Implementation,Services,3,1965.34,5896.02,3484.99
+381,2025-11-17,Southeast,"Customer 079",Implementation,Services,7,2424.84,16973.88,7836.47
+382,2025-01-04,Midwest,"Customer 080",Implementation,Services,13,4069.36,52901.68,26066.07
+383,2025-06-21,Southeast,"Customer 018",Implementation,Services,10,1773.16,17731.6,10489.39
+384,2025-04-13,Midwest,"Customer 023",Implementation,Services,13,4851.44,63068.72,30691.24
+385,2025-12-22,Southeast,"Customer 032",Implementation,Services,11,2036.26,22398.86,12781.67
+386,2025-07-21,West,"Customer 073",Consulting,Services,7,3063.08,21441.56,9805.24
+387,2025-12-16,West,"Customer 060",Support,Services,7,2332.66,16328.62,9252.01
+388,2025-12-21,Northeast,"Customer 064","Cloud Software",Technology,5,3258.35,16291.75,11057.59
+389,2025-12-04,Northeast,"Customer 049","Analytics Platform",Technology,3,2383.07,7149.21,4973.49
+390,2025-10-26,Southeast,"Customer 065",Implementation,Services,14,2832.31,39652.34,22463.66
+391,2025-07-04,Southeast,"Customer 011",Support,Services,4,3902.53,15610.12,9759.7
+392,2025-07-01,Southeast,"Customer 006","Analytics Platform",Technology,19,4922.14,93520.66,66249.62
+393,2025-07-24,Northeast,"Customer 014",Consulting,Services,1,718.38,718.38,291.32
+394,2025-09-23,Southeast,"Customer 074",Support,Services,8,2367.45,18939.6,11033.86
+395,2025-12-14,Southeast,"Customer 020",Support,Services,12,4989.09,59869.08,35756.41
+396,2025-06-01,West,"Customer 015",Implementation,Services,5,1904.56,9522.8,4712.74
+397,2025-04-16,Northeast,"Customer 045",Support,Services,16,713.71,11419.36,7257.22
+398,2025-08-20,West,"Customer 039",Consulting,Services,2,4098.38,8196.76,3183.73
+399,2025-06-25,Southwest,"Customer 032","Cloud Software",Technology,17,1078.65,18337.05,12205.54
+400,2025-10-14,Northeast,"Customer 030",Implementation,Services,13,3241.36,42137.68,19797.21
+401,2025-12-03,Northeast,"Customer 004",Implementation,Services,20,4444.71,88894.2,45507.79
+402,2025-08-08,West,"Customer 028",Implementation,Services,7,1572.14,11004.98,6081.37
+403,2025-02-02,West,"Customer 069",Support,Services,6,1987.52,11925.12,6577.08
+404,2025-02-28,Northeast,"Customer 068",Consulting,Services,11,3085.61,33941.71,15878.25
+405,2025-10-28,Midwest,"Customer 046","Cloud Software",Technology,15,3182.47,47737.05,36766.99
+406,2025-12-28,Southeast,"Customer 076",Consulting,Services,3,3442.52,10327.56,4338.71
+407,2025-05-03,West,"Customer 024",Consulting,Services,12,3543.82,42525.84,19210.28
+408,2025-08-03,Southwest,"Customer 074",Support,Services,13,2259.43,29372.59,17560.91
+409,2025-10-03,Southeast,"Customer 022","Analytics Platform",Technology,16,1621.97,25951.52,16347.79
+410,2025-08-19,West,"Customer 046",Support,Services,1,2551.89,2551.89,1406.65
+411,2025-07-16,Southeast,"Customer 064",Support,Services,14,3502.31,49032.34,28757.51
+412,2025-08-16,Southwest,"Customer 011",Implementation,Services,19,396.59,7535.21,4233.05
+413,2025-05-30,Midwest,"Customer 029","Cloud Software",Technology,18,1621.18,29181.24,22321.27
+414,2025-10-17,Southeast,"Customer 066",Implementation,Services,4,2970.39,11881.56,5737.16
+415,2025-10-06,Southeast,"Customer 006",Consulting,Services,15,2845.18,42677.7,22549.37
+416,2025-02-22,Midwest,"Customer 005","Analytics Platform",Technology,15,1498.37,22475.55,16585.88
+417,2025-02-14,West,"Customer 031",Implementation,Services,7,4100.84,28705.88,15330.89
+418,2025-06-29,Northeast,"Customer 022",Support,Services,20,911.37,18227.4,10080.83
+419,2025-04-16,Southeast,"Customer 045","Cloud Software",Technology,18,1585.15,28532.7,20720.53
+420,2025-06-15,Midwest,"Customer 074",Consulting,Services,9,4773.89,42965.01,19433.35
+421,2025-12-14,Southwest,"Customer 053","Cloud Software",Technology,2,4964.31,9928.62,7731.69
+422,2025-03-06,Southwest,"Customer 019","Analytics Platform",Technology,11,4185.29,46038.19,33232.01
+423,2025-12-13,Northeast,"Customer 019",Implementation,Services,19,3253.91,61824.29,33412.94
+424,2025-07-12,West,"Customer 012",Implementation,Services,13,2699.16,35089.08,17001.22
+425,2025-07-08,Northeast,"Customer 042",Implementation,Services,19,261.75,4973.25,2804.22
+426,2025-02-17,Midwest,"Customer 009",Implementation,Services,18,2139.15,38504.7,22906.47
+427,2025-04-19,Midwest,"Customer 042",Implementation,Services,10,1854.34,18543.4,9873.79
+428,2025-10-17,Midwest,"Customer 007",Implementation,Services,2,722.98,1445.96,817.58
+429,2025-08-24,West,"Customer 021","Cloud Software",Technology,15,2418.46,36276.9,28974.15
+430,2025-08-08,Southwest,"Customer 039","Analytics Platform",Technology,6,4403.51,26421.06,19558.33
+431,2025-02-17,Midwest,"Customer 011",Consulting,Services,12,3406.42,40877.04,19368.6
+432,2025-01-27,Midwest,"Customer 030",Implementation,Services,14,3363.55,47089.7,26021.38
+433,2025-01-01,Northeast,"Customer 010","Analytics Platform",Technology,5,3069.98,15349.9,10485.69
+434,2025-08-16,West,"Customer 044","Cloud Software",Technology,4,4943.74,19774.96,13992.17
+435,2025-03-09,West,"Customer 030",Implementation,Services,13,674.32,8766.16,4987.53
+436,2025-02-22,Midwest,"Customer 039",Consulting,Services,5,2067.92,10339.6,5171.24
+437,2025-03-10,West,"Customer 068","Analytics Platform",Technology,19,290.26,5514.94,3882.54
+438,2025-08-14,Southwest,"Customer 020",Consulting,Services,14,3176.36,44469.04,19601.13
+439,2025-04-22,West,"Customer 018","Cloud Software",Technology,4,3050.48,12201.92,8558.98
+440,2025-08-08,Southwest,"Customer 032",Consulting,Services,9,3311.95,29807.55,12212.35
+441,2025-11-04,Southeast,"Customer 037",Support,Services,1,4277.49,4277.49,2674.91
+442,2025-06-04,Southeast,"Customer 078","Analytics Platform",Technology,17,1146.07,19483.19,12911.12
+443,2025-11-27,Southwest,"Customer 064","Cloud Software",Technology,13,785.53,10211.89,7351.88
+444,2025-11-01,Southeast,"Customer 002","Cloud Software",Technology,12,4686.14,56233.68,37177.06
+445,2025-10-19,Midwest,"Customer 070",Implementation,Services,6,3872.95,23237.7,13773.27
+446,2025-02-07,Southeast,"Customer 009","Cloud Software",Technology,1,1495.38,1495.38,966.57
+447,2025-01-31,Southeast,"Customer 037",Implementation,Services,17,3893.77,66194.09,33611.51
+448,2025-07-25,Southeast,"Customer 069","Cloud Software",Technology,20,975.23,19504.6,12743.83
+449,2025-02-10,Southwest,"Customer 020",Support,Services,18,1802.06,32437.08,19910.85
+450,2025-11-29,Midwest,"Customer 056","Cloud Software",Technology,8,525.05,4200.4,2746.2
+451,2025-08-11,Northeast,"Customer 079","Cloud Software",Technology,20,511.39,10227.8,7635.8
+452,2025-12-03,West,"Customer 002","Analytics Platform",Technology,5,3582.12,17910.6,11215.85
+453,2025-06-27,Southeast,"Customer 034",Support,Services,6,2016.38,12098.28,7742.47
+454,2025-05-18,West,"Customer 043","Cloud Software",Technology,14,1541.91,21586.74,14036.12
+455,2025-12-31,West,"Customer 064",Support,Services,15,2676.21,40143.15,21230.52
+456,2025-10-18,Midwest,"Customer 021","Analytics Platform",Technology,9,3923.31,35309.79,26238.1
+457,2025-12-12,Southwest,"Customer 066","Cloud Software",Technology,1,459.18,459.18,357.27
+458,2025-05-06,Northeast,"Customer 047","Cloud Software",Technology,13,4621.08,60074.04,40167.53
+459,2025-01-19,Northeast,"Customer 029",Support,Services,11,1429.25,15721.75,10479.12
+460,2025-06-13,West,"Customer 074",Consulting,Services,12,817.15,9805.8,4684.55
+461,2025-01-27,Southwest,"Customer 067","Analytics Platform",Technology,2,4781.88,9563.76,5843.73
+462,2025-08-27,Midwest,"Customer 042",Consulting,Services,3,2877.18,8631.54,3204.68
+463,2025-04-13,Southeast,"Customer 039",Consulting,Services,20,1402.27,28045.4,12029.34
+464,2025-09-10,Southeast,"Customer 032","Analytics Platform",Technology,5,280.29,1401.45,932.81
+465,2025-04-30,Midwest,"Customer 002",Support,Services,11,256.94,2826.34,1766.94
+466,2025-06-07,Southwest,"Customer 068","Cloud Software",Technology,8,2244.13,17953.04,14250.94
+467,2025-03-14,West,"Customer 006",Consulting,Services,8,4512.12,36096.96,16357.75
+468,2025-12-25,Northeast,"Customer 011",Consulting,Services,19,703.99,13375.81,5234.79
+469,2025-07-21,Southeast,"Customer 073","Cloud Software",Technology,2,2316.17,4632.34,3679.35
+470,2025-05-02,Midwest,"Customer 041",Consulting,Services,13,3578.45,46519.85,22685.71
+471,2025-06-12,Midwest,"Customer 030",Implementation,Services,3,4731.88,14195.64,6555.23
+472,2025-10-27,Southwest,"Customer 014","Cloud Software",Technology,6,2385.44,14312.64,9879.23
+473,2025-03-03,Midwest,"Customer 027",Support,Services,15,1714.46,25716.9,14463.22
+474,2025-03-03,Southwest,"Customer 039","Cloud Software",Technology,20,441.57,8831.4,6833.28
+475,2025-06-17,West,"Customer 032","Analytics Platform",Technology,12,2132.16,25585.92,15551.94
+476,2025-06-03,Southwest,"Customer 004",Consulting,Services,13,4309.36,56021.68,25711.3
+477,2025-10-09,West,"Customer 060","Analytics Platform",Technology,4,4068.51,16274.04,10128.42
+478,2025-01-07,Southwest,"Customer 017","Cloud Software",Technology,7,4162.45,29137.15,20383.14
+479,2025-11-19,Southeast,"Customer 076","Cloud Software",Technology,9,4607.79,41470.11,27038.43
+480,2025-02-03,Northeast,"Customer 017","Analytics Platform",Technology,3,4549.12,13647.36,9999.38
+481,2025-06-19,West,"Customer 060","Cloud Software",Technology,2,1047.95,2095.9,1533.82
+482,2025-07-22,West,"Customer 049",Implementation,Services,14,1070.83,14991.62,7111.34
+483,2025-04-06,Midwest,"Customer 058",Consulting,Services,5,414.58,2072.9,972.33
+484,2025-05-06,Northeast,"Customer 053",Consulting,Services,18,2525.4,45457.2,17457.18
+485,2025-07-16,Northeast,"Customer 026","Analytics Platform",Technology,17,1433.45,24368.65,18497.12
+486,2025-10-06,Northeast,"Customer 046","Cloud Software",Technology,16,2836.46,45383.36,32564.77
+487,2025-10-17,Midwest,"Customer 050",Support,Services,9,1104.13,9937.17,5674.33
+488,2025-04-23,Midwest,"Customer 008","Cloud Software",Technology,16,2764.8,44236.8,33739.17
+489,2025-04-30,West,"Customer 032","Analytics Platform",Technology,8,1516.0,12128.0,8860.79
+490,2025-01-29,Southeast,"Customer 050","Analytics Platform",Technology,12,4692.23,56306.76,42716.94
+491,2025-03-30,Southwest,"Customer 076","Analytics Platform",Technology,11,4079.5,44874.5,31933.6
+492,2025-10-30,Midwest,"Customer 073","Cloud Software",Technology,19,924.99,17574.81,13914.66
+493,2025-09-10,Midwest,"Customer 023",Support,Services,16,430.33,6885.28,3642.22
+494,2025-11-05,West,"Customer 068","Analytics Platform",Technology,16,253.25,4052.0,3026.29
+495,2025-04-14,Midwest,"Customer 023","Analytics Platform",Technology,11,532.89,5861.79,3655.61
+496,2025-12-27,West,"Customer 068","Analytics Platform",Technology,12,4812.65,57751.8,38103.17
+497,2025-12-06,Southeast,"Customer 013",Implementation,Services,11,1683.38,18517.18,8551.83
+498,2025-03-22,Northeast,"Customer 041",Implementation,Services,6,3609.12,21654.72,11475.19
+499,2025-11-11,Southwest,"Customer 076",Consulting,Services,6,2047.32,12283.92,5987.66
+500,2025-05-31,Southwest,"Customer 001","Analytics Platform",Technology,19,2110.11,40092.09,30433.32
+501,2025-10-18,Southwest,"Customer 078","Cloud Software",Technology,11,4624.93,50874.23,40435.1
+502,2025-04-24,West,"Customer 064",Support,Services,5,1823.05,9115.25,4853.41
+503,2025-06-27,Southwest,"Customer 012",Consulting,Services,11,2371.49,26086.39,10758.91
+504,2025-05-08,Midwest,"Customer 033","Cloud Software",Technology,4,3671.96,14687.84,9513.37
+505,2025-08-13,Southwest,"Customer 053",Implementation,Services,16,4438.41,71014.56,35237.21
+506,2025-07-12,Northeast,"Customer 074","Cloud Software",Technology,8,1022.62,8180.96,5332.3
+507,2025-01-18,West,"Customer 041",Consulting,Services,9,4770.4,42933.6,16395.14
+508,2025-03-29,Southwest,"Customer 010",Implementation,Services,18,4723.71,85026.78,50717.34
+509,2025-06-23,Southeast,"Customer 062",Support,Services,1,2298.79,2298.79,1435.78
+510,2025-11-07,Southwest,"Customer 007",Implementation,Services,4,1822.7,7290.8,4344.62
+511,2025-07-29,Southeast,"Customer 034",Support,Services,10,1662.65,16626.5,8900.94
+512,2025-07-21,Southeast,"Customer 063",Support,Services,5,508.9,2544.5,1324.69
+513,2025-02-14,Southeast,"Customer 062",Consulting,Services,7,710.69,4974.83,2005.42
+514,2025-11-23,West,"Customer 061",Consulting,Services,4,1714.68,6858.72,2973.91
+515,2025-09-08,West,"Customer 070",Consulting,Services,13,1128.19,14666.47,7504.52
+516,2025-07-09,Northeast,"Customer 006","Analytics Platform",Technology,9,2338.77,21048.93,13516.45
+517,2025-05-18,West,"Customer 020",Support,Services,4,657.11,2628.44,1511.37
+518,2025-10-05,Southeast,"Customer 030",Implementation,Services,18,539.67,9714.06,4875.85
+519,2025-09-25,Southeast,"Customer 061",Implementation,Services,19,4437.86,84319.34,43525.81
+520,2025-02-10,West,"Customer 065",Implementation,Services,19,4527.16,86016.04,48863.31
+521,2025-12-13,Southwest,"Customer 016",Support,Services,15,1071.18,16067.7,10885.85
+522,2025-04-19,Southwest,"Customer 006","Analytics Platform",Technology,14,622.25,8711.5,6179.07
+523,2025-04-14,Southeast,"Customer 034","Analytics Platform",Technology,11,4576.32,50339.52,37566.76
+524,2025-02-04,Northeast,"Customer 072","Cloud Software",Technology,13,2872.26,37339.38,29014.93
+525,2025-09-24,West,"Customer 080",Implementation,Services,19,2732.17,51911.23,26326.0
+526,2025-08-01,Southwest,"Customer 073","Analytics Platform",Technology,19,3017.72,57336.68,43253.25
+527,2025-02-21,Southeast,"Customer 013","Cloud Software",Technology,10,4370.51,43705.1,34125.89
+528,2025-07-30,Northeast,"Customer 063",Consulting,Services,19,3142.57,59708.83,22450.19
+529,2025-05-22,Southwest,"Customer 080",Implementation,Services,20,3483.86,69677.2,35136.48
+530,2025-07-22,Southwest,"Customer 007",Consulting,Services,16,4623.97,73983.52,37992.39
+531,2025-01-11,Midwest,"Customer 040",Consulting,Services,9,4253.52,38281.68,19420.97
+532,2025-12-17,Southwest,"Customer 018","Cloud Software",Technology,10,4877.54,48775.4,34674.32
+533,2025-06-14,Northeast,"Customer 078",Consulting,Services,3,1142.69,3428.07,1384.33
+534,2025-07-28,Southeast,"Customer 048",Implementation,Services,2,2697.53,5395.06,2511.05
+535,2025-06-09,Northeast,"Customer 018",Support,Services,17,4426.83,75256.11,39481.74
+536,2025-04-09,West,"Customer 032","Analytics Platform",Technology,2,2418.13,4836.26,3612.13
+537,2025-12-27,Midwest,"Customer 048","Analytics Platform",Technology,15,2649.35,39740.25,27884.37
+538,2025-03-05,Southwest,"Customer 048","Cloud Software",Technology,16,3071.71,49147.36,32850.75
+539,2025-08-31,Southeast,"Customer 045",Support,Services,12,1026.69,12320.28,8169.81
+540,2025-12-19,Midwest,"Customer 004","Cloud Software",Technology,13,485.84,6315.92,4905.02
+541,2025-04-20,Southwest,"Customer 027","Analytics Platform",Technology,9,3345.04,30105.36,20535.62
+542,2025-12-16,Northeast,"Customer 017","Cloud Software",Technology,6,3105.42,18632.52,11950.04
+543,2025-05-10,Midwest,"Customer 036",Support,Services,14,4503.54,63049.56,41376.51
+544,2025-08-24,Southwest,"Customer 060",Consulting,Services,10,3466.68,34666.8,17398.91
+545,2025-07-23,West,"Customer 001",Support,Services,17,4997.29,84953.93,57313.12
+546,2025-07-11,Southeast,"Customer 078",Support,Services,10,1667.76,16677.6,8960.82
+547,2025-02-02,Midwest,"Customer 042",Consulting,Services,9,1490.45,13414.05,6489.38
+548,2025-11-30,Southwest,"Customer 020",Consulting,Services,17,3886.0,66062.0,33952.56
+549,2025-11-04,Midwest,"Customer 018",Implementation,Services,1,3363.15,3363.15,2016.53
+550,2025-05-13,Northeast,"Customer 050",Implementation,Services,2,3019.36,6038.72,3618.16
+551,2025-04-08,Southwest,"Customer 069",Consulting,Services,16,4556.0,72896.0,34807.76
+552,2025-09-17,Southwest,"Customer 072",Consulting,Services,6,1645.47,9872.82,4396.61
+553,2025-05-13,Southwest,"Customer 043",Support,Services,3,1305.7,3917.1,2176.86
+554,2025-06-07,Midwest,"Customer 048",Implementation,Services,9,3031.46,27283.14,14029.04
+555,2025-03-02,West,"Customer 075",Implementation,Services,19,4735.43,89973.17,40613.4
+556,2025-04-10,West,"Customer 049",Support,Services,17,1667.19,28342.23,14983.12
+557,2025-03-19,Southwest,"Customer 044","Analytics Platform",Technology,14,4939.16,69148.24,51367.13
+558,2025-08-23,Midwest,"Customer 024","Analytics Platform",Technology,3,2566.01,7698.03,5396.05
+559,2025-04-01,West,"Customer 001",Consulting,Services,15,1549.26,23238.9,11428.68
+560,2025-03-28,Southwest,"Customer 063",Support,Services,3,864.68,2594.04,1528.91
+561,2025-08-08,Northeast,"Customer 062",Implementation,Services,13,272.18,3538.34,1859.06
+562,2025-07-11,Midwest,"Customer 068","Cloud Software",Technology,7,335.1,2345.7,1502.8
+563,2025-05-08,Midwest,"Customer 040","Analytics Platform",Technology,5,737.86,3689.3,2510.69
+564,2025-06-06,West,"Customer 006","Analytics Platform",Technology,10,4755.2,47552.0,32000.03
+565,2025-09-24,Southeast,"Customer 044",Support,Services,14,4467.88,62550.32,42488.91
+566,2025-06-25,Midwest,"Customer 025",Implementation,Services,6,4753.4,28520.4,16738.99
+567,2025-07-26,Southwest,"Customer 029","Cloud Software",Technology,5,1253.15,6265.75,4032.05
+568,2025-09-16,West,"Customer 047","Analytics Platform",Technology,2,2032.16,4064.32,2854.99
+569,2025-10-01,West,"Customer 077",Support,Services,2,3394.36,6788.72,4240.04
+570,2025-01-11,West,"Customer 054","Cloud Software",Technology,15,2056.21,30843.15,22440.4
+571,2025-08-31,Southwest,"Customer 002","Analytics Platform",Technology,10,2249.14,22491.4,13858.23
+572,2025-09-24,Southeast,"Customer 078",Consulting,Services,5,2239.42,11197.1,5752.84
+573,2025-09-19,West,"Customer 037",Support,Services,4,3977.61,15910.44,9540.51
+574,2025-11-08,Midwest,"Customer 067","Analytics Platform",Technology,7,1950.13,13650.91,9085.51
+575,2025-03-24,Southeast,"Customer 064","Cloud Software",Technology,7,3518.97,24632.79,17659.4
+576,2025-05-01,West,"Customer 012","Cloud Software",Technology,4,4217.35,16869.4,12602.18
+577,2025-03-18,Southeast,"Customer 010","Cloud Software",Technology,4,4547.7,18190.8,13517.47
+578,2025-08-22,Midwest,"Customer 060",Consulting,Services,2,724.09,1448.18,576.31
+579,2025-01-21,Midwest,"Customer 041",Consulting,Services,14,3758.07,52612.98,20266.51
+580,2025-01-24,Southwest,"Customer 022","Cloud Software",Technology,11,1948.26,21430.86,15216.65
+581,2025-11-15,West,"Customer 048",Consulting,Services,11,1118.63,12304.93,5341.87
+582,2025-08-22,Northeast,"Customer 062",Consulting,Services,14,3332.02,46648.28,23207.78
+583,2025-02-27,West,"Customer 021","Analytics Platform",Technology,4,2226.13,8904.52,6184.37
+584,2025-10-19,Southwest,"Customer 079",Implementation,Services,13,3951.03,51363.39,27624.12
+585,2025-12-17,Northeast,"Customer 063","Analytics Platform",Technology,4,4466.07,17864.28,11978.18
+586,2025-02-02,Midwest,"Customer 002",Consulting,Services,17,3895.76,66227.92,30614.77
+587,2025-10-17,Midwest,"Customer 067","Analytics Platform",Technology,17,3519.15,59825.55,41813.17
+588,2025-08-10,Northeast,"Customer 045","Analytics Platform",Technology,13,956.11,12429.43,9101.2
+589,2025-11-10,West,"Customer 021","Cloud Software",Technology,17,4282.02,72794.34,56510.2
+590,2025-03-26,Northeast,"Customer 042","Cloud Software",Technology,8,1821.75,14574.0,9975.98
+591,2025-09-17,Southeast,"Customer 049","Analytics Platform",Technology,13,4131.24,53706.12,32901.06
+592,2025-08-16,Northeast,"Customer 012",Support,Services,16,2373.57,37977.12,20469.41
+593,2025-09-12,West,"Customer 052","Cloud Software",Technology,14,420.2,5882.8,4281.83
+594,2025-02-16,Southeast,"Customer 039",Support,Services,17,2921.08,49658.36,31023.33
+595,2025-08-22,Midwest,"Customer 007",Consulting,Services,8,4260.51,34084.08,14421.51
+596,2025-11-14,Northeast,"Customer 047",Support,Services,15,791.61,11874.15,7617.16
+597,2025-04-24,Midwest,"Customer 046","Cloud Software",Technology,10,2851.53,28515.3,19955.65
+598,2025-02-24,Southwest,"Customer 064","Cloud Software",Technology,5,4153.73,20768.65,15759.29
+599,2025-07-29,Midwest,"Customer 079","Cloud Software",Technology,7,1140.83,7985.81,6299.48
+600,2025-07-21,Northeast,"Customer 025","Analytics Platform",Technology,11,761.89,8380.79,5584.25
+601,2025-11-21,West,"Customer 058",Support,Services,15,3377.67,50665.05,34097.09
+602,2025-03-10,West,"Customer 068",Implementation,Services,2,2877.83,5755.66,2931.07
+603,2025-10-27,Southeast,"Customer 023",Implementation,Services,19,1074.84,20421.96,11649.48
+604,2025-02-23,Southeast,"Customer 078",Implementation,Services,11,2644.52,29089.72,14589.83
+605,2025-11-08,Midwest,"Customer 051","Analytics Platform",Technology,11,4859.84,53458.24,35948.28
+606,2025-03-10,Northeast,"Customer 078","Analytics Platform",Technology,17,1669.84,28387.28,20218.53
+607,2025-06-10,Southwest,"Customer 026",Support,Services,7,3214.8,22503.6,12748.13
+608,2025-06-26,Southwest,"Customer 065","Analytics Platform",Technology,18,3547.98,63863.64,41612.34
+609,2025-03-01,Southeast,"Customer 062",Consulting,Services,19,2960.53,56250.07,26816.95
+610,2025-08-02,Midwest,"Customer 055",Support,Services,1,2732.97,2732.97,1432.2
+611,2025-03-16,West,"Customer 026","Cloud Software",Technology,9,3813.38,34320.42,22848.81
+612,2025-05-27,Southwest,"Customer 008",Consulting,Services,10,1219.0,12190.0,5565.8
+613,2025-07-03,West,"Customer 079",Implementation,Services,18,4358.0,78444.0,43833.41
+614,2025-10-15,Southwest,"Customer 066",Implementation,Services,10,3541.45,35414.5,15848.58
+615,2025-07-15,Northeast,"Customer 041",Implementation,Services,18,505.56,9100.08,5086.83
+616,2025-04-14,Northeast,"Customer 029",Support,Services,12,3836.76,46041.12,27968.07
+617,2025-11-05,Southwest,"Customer 038","Analytics Platform",Technology,15,1092.77,16391.55,11625.3
+618,2025-04-06,Southeast,"Customer 016","Analytics Platform",Technology,13,443.01,5759.13,3712.67
+619,2025-05-16,Southwest,"Customer 075","Analytics Platform",Technology,9,276.81,2491.29,1680.66
+620,2025-03-21,Southwest,"Customer 042","Cloud Software",Technology,20,491.56,9831.2,7758.6
+621,2025-11-12,Northeast,"Customer 074",Consulting,Services,18,1950.91,35116.38,17398.24
+622,2025-06-12,Southwest,"Customer 024",Support,Services,17,573.84,9755.28,5861.19
+623,2025-08-01,Southeast,"Customer 052",Support,Services,3,1909.66,5728.98,3788.82
+624,2025-12-06,Midwest,"Customer 047",Consulting,Services,10,1287.62,12876.2,6314.81
+625,2025-09-29,Southeast,"Customer 002",Implementation,Services,4,3427.46,13709.84,7009.93
+626,2025-11-25,Southeast,"Customer 032",Support,Services,2,3492.12,6984.24,3990.44
+627,2025-02-28,Midwest,"Customer 070",Implementation,Services,10,367.35,3673.5,1920.13
+628,2025-07-11,Southeast,"Customer 058",Support,Services,16,458.3,7332.8,4866.96
+629,2025-04-09,Southeast,"Customer 011",Consulting,Services,4,1045.13,4180.52,2186.43
+630,2025-10-03,West,"Customer 009",Support,Services,7,3434.09,24038.63,15475.42
+631,2025-12-17,West,"Customer 027",Implementation,Services,18,4186.56,75358.08,43751.54
+632,2025-08-11,Southwest,"Customer 004","Cloud Software",Technology,15,3655.12,54826.8,35421.5
+633,2025-02-07,Southwest,"Customer 033","Cloud Software",Technology,18,584.6,10522.8,8117.91
+634,2025-05-13,Northeast,"Customer 058",Implementation,Services,13,2306.87,29989.31,13276.34
+635,2025-12-11,Southeast,"Customer 001","Cloud Software",Technology,20,550.38,11007.6,8358.64
+636,2025-01-24,Midwest,"Customer 065","Cloud Software",Technology,4,1626.72,6506.88,4878.47
+637,2025-11-07,Midwest,"Customer 057","Cloud Software",Technology,13,2126.79,27648.27,20617.75
+638,2025-08-31,Southeast,"Customer 029","Analytics Platform",Technology,5,3797.08,18985.4,13811.56
+639,2025-10-07,Southwest,"Customer 039",Consulting,Services,12,4797.61,57571.32,21404.1
+640,2025-10-12,West,"Customer 006","Analytics Platform",Technology,1,2970.41,2970.41,1969.54
+641,2025-10-08,Midwest,"Customer 027","Cloud Software",Technology,12,1255.75,15069.0,11827.67
+642,2025-09-20,Southwest,"Customer 024","Analytics Platform",Technology,8,3180.2,25441.6,16293.78
+643,2025-02-28,Southeast,"Customer 007","Analytics Platform",Technology,18,2441.01,43938.18,30227.11
+644,2025-05-29,Midwest,"Customer 013","Cloud Software",Technology,7,3696.55,25875.85,18577.58
+645,2025-06-19,Southwest,"Customer 031",Consulting,Services,4,1604.4,6417.6,2446.19
+646,2025-04-10,Northeast,"Customer 058",Consulting,Services,11,3177.63,34953.93,14642.48
+647,2025-10-27,Southeast,"Customer 073","Analytics Platform",Technology,12,4086.57,49038.84,36945.15
+648,2025-03-28,Midwest,"Customer 032","Cloud Software",Technology,8,3632.95,29063.6,21580.72
+649,2025-05-22,Southwest,"Customer 043",Consulting,Services,16,2448.53,39176.48,16743.97
+650,2025-06-06,Southeast,"Customer 014",Implementation,Services,6,3316.37,19898.22,9016.2
+651,2025-05-24,Southeast,"Customer 026","Analytics Platform",Technology,9,3734.34,33609.06,23535.05
+652,2025-02-08,Southeast,"Customer 004","Cloud Software",Technology,19,2999.78,56995.82,43491.92
+653,2025-04-19,Southeast,"Customer 034","Cloud Software",Technology,18,4496.43,80935.74,58787.54
+654,2025-12-01,Midwest,"Customer 051","Analytics Platform",Technology,8,4484.33,35874.64,24909.06
+655,2025-05-29,Northeast,"Customer 065","Analytics Platform",Technology,17,680.13,11562.21,7610.46
+656,2025-01-06,Southeast,"Customer 022","Analytics Platform",Technology,17,916.76,15584.92,9747.99
+657,2025-10-17,Southwest,"Customer 062",Support,Services,12,441.99,5303.88,3404.22
+658,2025-04-29,Midwest,"Customer 048","Cloud Software",Technology,8,453.34,3626.72,2441.09
+659,2025-07-04,Northeast,"Customer 059",Implementation,Services,2,439.55,879.1,478.02
+660,2025-02-22,Midwest,"Customer 034",Support,Services,19,2835.66,53877.54,29514.98
+661,2025-12-01,Midwest,"Customer 076",Implementation,Services,3,2704.15,8112.45,4057.95
+662,2025-04-25,Northeast,"Customer 046",Support,Services,12,2562.59,30751.08,18362.63
+663,2025-11-06,Southeast,"Customer 018","Cloud Software",Technology,15,1036.63,15549.45,10143.44
+664,2025-11-26,Southwest,"Customer 020",Consulting,Services,6,997.45,5984.7,2790.8
+665,2025-03-02,Northeast,"Customer 043","Analytics Platform",Technology,4,2537.2,10148.8,6866.78
+666,2025-04-18,Southwest,"Customer 053",Support,Services,1,1407.43,1407.43,760.66
+667,2025-10-31,Southwest,"Customer 066","Analytics Platform",Technology,2,4481.29,8962.58,5588.15
+668,2025-03-27,Southwest,"Customer 067",Consulting,Services,13,3096.95,40260.35,18526.88
+669,2025-01-10,West,"Customer 028",Consulting,Services,15,3131.0,46965.0,20919.44
+670,2025-09-04,Southwest,"Customer 053","Analytics Platform",Technology,20,927.88,18557.6,12864.56
+671,2025-04-04,Southeast,"Customer 034",Support,Services,6,3689.89,22139.34,12726.3
+672,2025-08-21,Southeast,"Customer 009",Support,Services,8,2046.5,16372.0,8859.78
+673,2025-01-09,Southeast,"Customer 065","Analytics Platform",Technology,14,4175.94,58463.16,40741.91
+674,2025-04-01,Southeast,"Customer 077",Implementation,Services,2,4419.33,8838.66,4640.55
+675,2025-03-02,Northeast,"Customer 017","Cloud Software",Technology,20,2811.61,56232.2,35999.41
+676,2025-12-14,Southeast,"Customer 054",Implementation,Services,12,4405.42,52865.04,29161.56
+677,2025-08-08,Northeast,"Customer 049","Analytics Platform",Technology,12,3047.98,36575.76,26284.18
+678,2025-12-23,West,"Customer 055",Support,Services,5,1458.96,7294.8,4687.18
+679,2025-02-12,Southeast,"Customer 070",Consulting,Services,14,1474.57,20643.98,7656.34
+680,2025-01-04,Southeast,"Customer 016",Support,Services,17,284.17,4830.89,3017.99
+681,2025-12-19,Northeast,"Customer 047",Consulting,Services,4,985.2,3940.8,1868.93
+682,2025-05-10,Southeast,"Customer 055",Consulting,Services,19,1986.81,37749.39,15631.63
+683,2025-12-15,Southwest,"Customer 053",Implementation,Services,18,3972.99,71513.82,36986.58
+684,2025-07-09,Southeast,"Customer 062",Support,Services,9,4945.41,44508.69,27258.2
+685,2025-12-28,Southwest,"Customer 016",Implementation,Services,8,2371.33,18970.64,10469.7
+686,2025-03-24,Southwest,"Customer 066","Cloud Software",Technology,13,3983.89,51790.57,39782.23
+687,2025-11-11,Southwest,"Customer 050","Cloud Software",Technology,1,4070.75,4070.75,3141.48
+688,2025-08-30,Northeast,"Customer 012",Support,Services,3,1499.69,4499.07,2606.46
+689,2025-11-08,Northeast,"Customer 052","Cloud Software",Technology,20,3366.83,67336.6,46181.8
+690,2025-11-02,Southwest,"Customer 064","Cloud Software",Technology,15,300.87,4513.05,3502.54
+691,2025-09-23,Southwest,"Customer 005",Consulting,Services,20,2675.1,53502.0,25774.69
+692,2025-11-11,West,"Customer 047","Analytics Platform",Technology,8,3361.34,26890.72,20332.16
+693,2025-02-14,Northeast,"Customer 046",Consulting,Services,13,2175.89,28286.57,11372.61
+694,2025-01-08,West,"Customer 071","Cloud Software",Technology,10,3699.16,36991.6,26983.83
+695,2025-10-26,Midwest,"Customer 036",Consulting,Services,8,3130.23,25041.84,10044.88
+696,2025-07-26,West,"Customer 034",Support,Services,6,2183.89,13103.34,7036.94
+697,2025-02-07,Midwest,"Customer 044",Support,Services,4,4063.98,16255.92,10941.43
+698,2025-10-03,Midwest,"Customer 057",Support,Services,13,2925.05,38025.65,24457.9
+699,2025-06-23,Northeast,"Customer 076",Implementation,Services,1,2539.36,2539.36,1222.07
+700,2025-07-15,Southwest,"Customer 041","Analytics Platform",Technology,14,4788.37,67037.18,45762.31
+701,2025-01-05,Southwest,"Customer 037",Consulting,Services,3,2144.92,6434.76,3151.78
+702,2025-06-25,Southeast,"Customer 023","Cloud Software",Technology,16,1740.9,27854.4,18800.9
+703,2025-10-21,Southwest,"Customer 025",Consulting,Services,16,3751.28,60020.48,24463.02
+704,2025-05-04,Southwest,"Customer 030",Consulting,Services,7,4215.97,29511.79,14868.44
+705,2025-07-02,West,"Customer 016","Analytics Platform",Technology,3,3460.11,10380.33,7330.05
+706,2025-11-11,Southeast,"Customer 006","Cloud Software",Technology,16,2013.18,32210.88,22240.54
+707,2025-10-22,Northeast,"Customer 024",Consulting,Services,17,1581.27,26881.59,10901.42
+708,2025-10-23,West,"Customer 068","Analytics Platform",Technology,14,2522.02,35308.28,24239.94
+709,2025-09-15,Northeast,"Customer 023",Consulting,Services,15,4888.41,73326.15,35322.61
+710,2025-08-24,West,"Customer 002",Consulting,Services,7,2052.28,14365.96,5546.98
+711,2025-07-05,Midwest,"Customer 024",Support,Services,18,1498.53,26973.54,15188.94
+712,2025-11-10,Midwest,"Customer 024",Consulting,Services,16,2263.73,36219.68,15829.99
+713,2025-07-10,Northeast,"Customer 036",Consulting,Services,15,1104.47,16567.05,6477.42
+714,2025-10-22,West,"Customer 035","Analytics Platform",Technology,8,2887.87,23102.96,17027.1
+715,2025-04-11,Southwest,"Customer 061","Analytics Platform",Technology,1,1088.88,1088.88,740.37
+716,2025-11-19,Southeast,"Customer 041",Support,Services,16,1675.16,26802.56,16348.01
+717,2025-10-18,Northeast,"Customer 013","Cloud Software",Technology,6,535.17,3211.02,2473.16
+718,2025-09-01,Northeast,"Customer 043","Cloud Software",Technology,9,1964.57,17681.13,12901.14
+719,2025-05-12,West,"Customer 053",Consulting,Services,4,1917.68,7670.72,3672.23
+720,2025-11-07,Southeast,"Customer 074","Analytics Platform",Technology,18,1079.06,19423.08,14078.81
+721,2025-07-01,Southeast,"Customer 063",Consulting,Services,15,4475.75,67136.25,28933.8
+722,2025-05-27,Southwest,"Customer 022",Implementation,Services,11,2253.63,24789.93,13336.23
+723,2025-07-27,West,"Customer 021","Cloud Software",Technology,11,1334.04,14674.44,10135.64
+724,2025-05-30,Southeast,"Customer 051",Consulting,Services,9,4466.54,40198.86,19896.66
+725,2025-07-05,Southeast,"Customer 058",Support,Services,14,1044.76,14626.64,9604.93
+726,2025-03-06,Midwest,"Customer 011","Analytics Platform",Technology,7,1042.82,7299.74,4500.15
+727,2025-02-02,Southeast,"Customer 007",Implementation,Services,1,3911.94,3911.94,2049.22
+728,2025-02-12,Midwest,"Customer 080","Cloud Software",Technology,5,650.48,3252.4,2566.32
+729,2025-07-19,Southwest,"Customer 032",Consulting,Services,10,2355.01,23550.1,9189.86
+730,2025-09-27,West,"Customer 005","Analytics Platform",Technology,12,4336.75,52041.0,33932.41
+731,2025-09-01,Southeast,"Customer 035",Implementation,Services,18,2363.01,42534.18,25313.23
+732,2025-12-24,Southwest,"Customer 076",Support,Services,20,2418.58,48371.6,30949.4
+733,2025-10-16,Southeast,"Customer 069",Implementation,Services,10,4567.38,45673.8,23616.29
+734,2025-04-27,Northeast,"Customer 040","Cloud Software",Technology,12,2207.97,26495.64,17617.34
+735,2025-01-06,Southeast,"Customer 018","Cloud Software",Technology,12,1612.12,19345.44,14037.36
+736,2025-12-19,Northeast,"Customer 039",Implementation,Services,1,3887.88,3887.88,2207.05
+737,2025-11-02,West,"Customer 071","Analytics Platform",Technology,12,1145.71,13748.52,10189.66
+738,2025-08-12,Southwest,"Customer 021",Implementation,Services,13,4185.03,54405.39,25858.6
+739,2025-02-10,Southwest,"Customer 067",Implementation,Services,20,4085.98,81719.6,44908.39
+740,2025-05-26,Midwest,"Customer 053",Support,Services,7,4304.04,30128.28,16546.0
+741,2025-05-29,Northeast,"Customer 080","Cloud Software",Technology,15,1542.64,23139.6,17114.99
+742,2025-04-07,West,"Customer 020",Consulting,Services,2,4856.15,9712.3,3627.94
+743,2025-02-22,Midwest,"Customer 017",Consulting,Services,15,3703.76,55556.4,22625.33
+744,2025-03-19,Northeast,"Customer 028","Cloud Software",Technology,11,2246.15,24707.65,18919.04
+745,2025-09-13,Northeast,"Customer 005",Consulting,Services,11,631.06,6941.66,3402.05
+746,2025-03-16,Midwest,"Customer 051","Cloud Software",Technology,3,2830.16,8490.48,5680.61
+747,2025-05-09,West,"Customer 016",Implementation,Services,8,2077.79,16622.32,9906.83
+748,2025-05-07,Southwest,"Customer 059","Cloud Software",Technology,4,2725.41,10901.64,8690.12
+749,2025-08-31,Midwest,"Customer 042",Implementation,Services,6,3238.53,19431.18,8680.87
+750,2025-10-09,West,"Customer 033",Support,Services,16,3282.97,52527.52,28984.46
+751,2025-01-27,West,"Customer 031","Analytics Platform",Technology,14,1791.44,25080.16,15719.68
+752,2025-05-22,West,"Customer 051",Support,Services,8,292.42,2339.36,1232.19
+753,2025-12-20,Southeast,"Customer 020",Implementation,Services,12,3911.29,46935.48,22519.43
+754,2025-09-13,Southeast,"Customer 044","Cloud Software",Technology,2,533.93,1067.86,793.56
+755,2025-12-26,West,"Customer 017",Support,Services,16,1355.2,21683.2,14681.0
+756,2025-11-27,Northeast,"Customer 025",Consulting,Services,1,3523.94,3523.94,1505.8
+757,2025-03-10,West,"Customer 063",Consulting,Services,15,2905.37,43580.55,19909.23
+758,2025-09-08,Southeast,"Customer 024","Analytics Platform",Technology,18,1901.41,34225.38,24545.91
+759,2025-05-21,Southeast,"Customer 021",Support,Services,3,2772.9,8318.7,4923.85
+760,2025-05-15,Midwest,"Customer 059",Support,Services,1,3935.61,3935.61,2365.12
+761,2025-04-05,Southeast,"Customer 047","Cloud Software",Technology,20,1384.24,27684.8,20912.01
+762,2025-12-04,Northeast,"Customer 025",Support,Services,17,3495.31,59420.27,38178.56
+763,2025-03-20,Midwest,"Customer 042",Support,Services,14,3294.29,46120.06,24797.57
+764,2025-09-25,West,"Customer 017","Cloud Software",Technology,6,4399.09,26394.54,17745.91
+765,2025-09-06,West,"Customer 005","Analytics Platform",Technology,19,3298.32,62668.08,41497.29
+766,2025-09-08,Southeast,"Customer 076",Support,Services,9,483.16,4348.44,2414.76
+767,2025-02-06,Southwest,"Customer 063","Cloud Software",Technology,3,2473.28,7419.84,5507.2
+768,2025-07-04,Northeast,"Customer 048",Support,Services,2,4162.3,8324.6,4682.84
+769,2025-01-21,Midwest,"Customer 010","Cloud Software",Technology,7,4812.79,33689.53,22084.8
+770,2025-04-29,Northeast,"Customer 025",Support,Services,7,2749.41,19245.87,10773.88
+771,2025-11-17,Southeast,"Customer 072","Analytics Platform",Technology,14,3794.01,53116.14,38382.01
+772,2025-10-23,Northeast,"Customer 055",Consulting,Services,4,1042.34,4169.36,1663.01
+773,2025-07-25,Midwest,"Customer 021",Support,Services,18,4992.56,89866.08,53100.24
+774,2025-06-30,Southeast,"Customer 042",Consulting,Services,12,2208.63,26503.56,12491.62
+775,2025-06-15,Southwest,"Customer 073",Support,Services,18,1266.16,22790.88,14643.44
+776,2025-05-11,Northeast,"Customer 058",Consulting,Services,13,250.93,3262.09,1225.07
+777,2025-05-26,West,"Customer 067",Support,Services,5,4968.71,24843.55,14118.46
+778,2025-06-03,Southwest,"Customer 041","Analytics Platform",Technology,1,3914.73,3914.73,2939.71
+779,2025-05-22,Southeast,"Customer 072",Support,Services,19,4648.13,88314.47,48109.69
+780,2025-01-20,Midwest,"Customer 020",Implementation,Services,5,1508.69,7543.45,4392.85
+781,2025-05-08,Midwest,"Customer 039","Analytics Platform",Technology,3,2959.81,8879.43,6136.13
+782,2025-04-22,Midwest,"Customer 062","Cloud Software",Technology,6,2569.31,15415.86,12083.63
+783,2025-12-26,West,"Customer 077",Support,Services,10,427.52,4275.2,2776.04
+784,2025-07-15,West,"Customer 043","Cloud Software",Technology,12,4429.01,53148.12,37707.99
+785,2025-03-03,Southeast,"Customer 002","Analytics Platform",Technology,13,507.11,6592.43,4508.57
+786,2025-06-13,Southeast,"Customer 020",Support,Services,11,2636.41,29000.51,16104.78
+787,2025-01-26,Northeast,"Customer 077",Implementation,Services,19,2647.46,50301.74,23920.17
+788,2025-05-29,Southwest,"Customer 017",Implementation,Services,11,642.09,7062.99,3753.49
+789,2025-01-26,Northeast,"Customer 034",Support,Services,3,2143.0,6429.0,3790.01
+790,2025-12-24,Southwest,"Customer 062","Analytics Platform",Technology,18,1191.02,21438.36,14219.01
+791,2025-10-20,Southeast,"Customer 079","Analytics Platform",Technology,17,1419.67,24134.39,14757.29
+792,2025-08-09,Southeast,"Customer 012",Consulting,Services,4,3440.8,13763.2,6025.07
+793,2025-06-28,Midwest,"Customer 045","Analytics Platform",Technology,20,3363.2,67264.0,48641.89
+794,2025-03-28,Southeast,"Customer 057",Consulting,Services,20,942.64,18852.8,7110.91
+795,2025-04-30,Midwest,"Customer 020","Analytics Platform",Technology,3,783.77,2351.31,1431.3
+796,2025-11-14,Midwest,"Customer 002","Analytics Platform",Technology,11,3545.53,39000.83,24094.89
+797,2025-08-19,West,"Customer 043",Implementation,Services,7,3765.06,26355.42,12489.83
+798,2025-10-07,Midwest,"Customer 071",Support,Services,16,3209.45,51351.2,34855.57
+799,2025-12-22,Northeast,"Customer 075","Cloud Software",Technology,17,456.54,7761.18,5178.66
+800,2025-05-26,Southeast,"Customer 035","Analytics Platform",Technology,2,2458.56,4917.12,3693.88
+801,2025-02-04,Midwest,"Customer 047",Implementation,Services,4,340.62,1362.48,788.58
+802,2025-11-29,Southwest,"Customer 049",Implementation,Services,17,4888.91,83111.47,37893.56
+803,2025-06-11,Southeast,"Customer 069",Implementation,Services,3,1135.48,3406.44,1771.7
+804,2025-08-23,West,"Customer 006",Support,Services,8,4630.78,37046.24,21071.47
+805,2025-09-08,Southwest,"Customer 003",Implementation,Services,12,3500.48,42005.76,20871.0
+806,2025-06-04,Southeast,"Customer 036","Analytics Platform",Technology,2,3222.51,6445.02,4773.11
+807,2025-01-16,Midwest,"Customer 029",Support,Services,5,1873.48,9367.4,5459.84
+808,2025-03-12,Northeast,"Customer 067","Cloud Software",Technology,20,4395.33,87906.6,65916.21
+809,2025-08-02,Southeast,"Customer 020","Analytics Platform",Technology,14,4860.05,68040.7,50728.27
+810,2025-06-18,Southeast,"Customer 017",Implementation,Services,7,3349.25,23444.75,12495.23
+811,2025-12-17,Southwest,"Customer 040","Analytics Platform",Technology,17,4570.42,77697.14,51964.65
+812,2025-03-16,Southwest,"Customer 041",Support,Services,3,2897.37,8692.11,5839.15
+813,2025-03-02,Midwest,"Customer 019","Analytics Platform",Technology,1,3885.82,3885.82,2878.7
+814,2025-07-31,Midwest,"Customer 057",Implementation,Services,9,971.8,8746.2,4111.32
+815,2025-03-09,West,"Customer 079","Analytics Platform",Technology,20,1517.6,30352.0,20964.94
+816,2025-04-29,Southwest,"Customer 030",Support,Services,1,1956.49,1956.49,1232.79
+817,2025-09-02,Southeast,"Customer 078","Analytics Platform",Technology,16,3632.09,58113.44,38345.19
+818,2025-07-18,Northeast,"Customer 018",Implementation,Services,6,1167.98,7007.88,3119.6
+819,2025-01-08,Northeast,"Customer 029",Consulting,Services,7,3849.44,26946.08,10255.19
+820,2025-08-13,Northeast,"Customer 042",Support,Services,15,4466.04,66990.6,39417.87
+821,2025-01-22,Northeast,"Customer 041",Support,Services,13,3154.65,41010.45,26197.26
+822,2025-11-01,Southeast,"Customer 005",Support,Services,17,769.25,13077.25,7756.17
+823,2025-01-22,Southeast,"Customer 069","Analytics Platform",Technology,13,4923.2,64001.6,38802.91
+824,2025-07-18,West,"Customer 025",Support,Services,10,2337.88,23378.8,15465.16
+825,2025-05-27,Southwest,"Customer 055",Implementation,Services,10,3162.39,31623.9,14190.51
+826,2025-09-22,Northeast,"Customer 058","Analytics Platform",Technology,3,3682.57,11047.71,6828.67
+827,2025-10-27,Southwest,"Customer 051",Support,Services,14,1786.44,25010.16,13104.97
+828,2025-08-21,Southwest,"Customer 059",Support,Services,3,1437.89,4313.67,2720.52
+829,2025-12-31,West,"Customer 012","Analytics Platform",Technology,4,3604.58,14418.32,10113.75
+830,2025-02-13,Northeast,"Customer 066",Support,Services,20,4761.33,95226.6,55287.48
+831,2025-07-14,Southwest,"Customer 043","Cloud Software",Technology,19,4388.7,83385.3,64876.06
+832,2025-03-25,Southwest,"Customer 007","Analytics Platform",Technology,14,1713.3,23986.2,17193.93
+833,2025-08-17,Southwest,"Customer 016",Consulting,Services,5,4812.06,24060.3,8915.91
+834,2025-05-10,Northeast,"Customer 064","Cloud Software",Technology,16,2831.63,45306.08,29037.58
+835,2025-09-10,Southwest,"Customer 076","Analytics Platform",Technology,16,2405.26,38484.16,25811.33
+836,2025-11-04,West,"Customer 032",Support,Services,18,1571.04,28278.72,17549.26
+837,2025-04-17,Southwest,"Customer 019","Cloud Software",Technology,2,3353.07,6706.14,4331.33
+838,2025-01-17,Southeast,"Customer 039",Support,Services,11,4621.83,50840.13,26835.71
+839,2025-08-02,Southwest,"Customer 037","Analytics Platform",Technology,20,3389.39,67787.8,48263.25
+840,2025-10-21,Southwest,"Customer 059",Support,Services,19,1960.9,37257.1,19587.34
+841,2025-06-03,Midwest,"Customer 049",Consulting,Services,3,3852.6,11557.8,5835.87
+842,2025-02-03,Northeast,"Customer 018",Consulting,Services,4,3549.44,14197.76,5876.55
+843,2025-09-27,Southeast,"Customer 027",Implementation,Services,7,3157.26,22100.82,10110.87
+844,2025-11-19,West,"Customer 062",Support,Services,20,4685.99,93719.8,63523.71
+845,2025-05-28,Southeast,"Customer 041",Implementation,Services,9,2745.61,24710.49,14806.62
+846,2025-07-01,Southeast,"Customer 073","Analytics Platform",Technology,16,2718.6,43497.6,30496.05
+847,2025-09-10,Southeast,"Customer 030","Analytics Platform",Technology,10,4901.47,49014.7,29421.22
+848,2025-01-13,West,"Customer 027",Implementation,Services,20,4995.19,99903.8,50575.96
+849,2025-06-20,Southeast,"Customer 028",Consulting,Services,1,3292.94,3292.94,1581.94
+850,2025-05-11,Midwest,"Customer 039","Cloud Software",Technology,17,2862.47,48661.99,37115.73
+851,2025-02-28,Midwest,"Customer 051",Consulting,Services,19,3175.97,60343.43,22608.2
+852,2025-03-31,Midwest,"Customer 044","Analytics Platform",Technology,16,4601.77,73628.32,53569.07
+853,2025-11-27,Northeast,"Customer 020","Analytics Platform",Technology,15,4487.28,67309.2,46168.38
+854,2025-06-21,Northeast,"Customer 008",Implementation,Services,17,1671.88,28421.96,15802.45
+855,2025-06-11,Southeast,"Customer 003",Support,Services,7,2992.64,20948.48,12005.05
+856,2025-07-01,Southwest,"Customer 036","Cloud Software",Technology,1,1860.97,1860.97,1302.75
+857,2025-10-01,Southeast,"Customer 078","Analytics Platform",Technology,13,1140.05,14820.65,9169.46
+858,2025-06-07,West,"Customer 035",Consulting,Services,14,662.29,9272.06,4731.79
+859,2025-07-10,Midwest,"Customer 028",Implementation,Services,17,1686.01,28662.17,13126.04
+860,2025-01-20,West,"Customer 057","Analytics Platform",Technology,17,368.44,6263.48,4241.79
+861,2025-09-14,Southwest,"Customer 044","Analytics Platform",Technology,16,3729.1,59665.6,40798.17
+862,2025-06-17,West,"Customer 067","Analytics Platform",Technology,5,1224.64,6123.2,3709.73
+863,2025-07-18,West,"Customer 001",Support,Services,10,4678.6,46786.0,29471.83
+864,2025-11-01,Midwest,"Customer 060","Cloud Software",Technology,2,739.74,1479.48,1128.23
+865,2025-06-09,Southeast,"Customer 040","Cloud Software",Technology,7,1774.18,12419.26,8330.93
+866,2025-05-22,Midwest,"Customer 057",Support,Services,4,1545.11,6180.44,3369.57
+867,2025-02-28,Southeast,"Customer 072","Cloud Software",Technology,17,736.28,12516.76,9097.24
+868,2025-10-09,Midwest,"Customer 019",Consulting,Services,10,2976.89,29768.9,11830.28
+869,2025-06-09,Midwest,"Customer 070",Support,Services,15,490.95,7364.25,3863.57
+870,2025-12-12,West,"Customer 050","Cloud Software",Technology,2,659.07,1318.14,926.27
+871,2025-12-27,Southeast,"Customer 058",Support,Services,20,1939.22,38784.4,22230.18
+872,2025-04-12,West,"Customer 060",Support,Services,19,876.03,16644.57,10819.91
+873,2025-12-24,West,"Customer 059",Implementation,Services,10,3501.27,35012.7,19384.24
+874,2025-08-27,Southwest,"Customer 029",Implementation,Services,5,4340.21,21701.05,11690.59
+875,2025-07-06,Southwest,"Customer 043",Implementation,Services,11,2403.09,26433.99,11758.96
+876,2025-09-01,Midwest,"Customer 062","Cloud Software",Technology,15,4267.39,64010.85,43857.75
+877,2025-06-28,Southeast,"Customer 017",Support,Services,17,738.93,12561.81,8175.33
+878,2025-02-24,Southeast,"Customer 010",Consulting,Services,10,2780.54,27805.4,12071.18
+879,2025-07-31,Southeast,"Customer 032","Analytics Platform",Technology,18,1005.35,18096.3,12254.45
+880,2025-02-03,Southwest,"Customer 076",Consulting,Services,14,3975.49,55656.86,24469.91
+881,2025-06-25,Southwest,"Customer 023",Support,Services,3,3761.99,11285.97,7154.24
+882,2025-09-07,Southeast,"Customer 077","Cloud Software",Technology,15,1795.55,26933.25,17658.1
+883,2025-08-16,Midwest,"Customer 052","Analytics Platform",Technology,3,3091.73,9275.19,6582.43
+884,2025-11-02,Midwest,"Customer 064",Implementation,Services,2,680.03,1360.06,776.22
+885,2025-10-25,Southwest,"Customer 020","Cloud Software",Technology,15,2773.47,41602.05,29221.16
+886,2025-10-23,Southwest,"Customer 027",Implementation,Services,11,1673.74,18411.14,10440.87
+887,2025-12-14,Northeast,"Customer 045",Consulting,Services,3,3017.95,9053.85,4235.74
+888,2025-09-19,Southwest,"Customer 038",Implementation,Services,2,2003.81,4007.62,2115.31
+889,2025-01-28,Southeast,"Customer 046","Cloud Software",Technology,4,4340.93,17363.72,13517.81
+890,2025-05-01,Southeast,"Customer 051",Implementation,Services,11,3630.92,39940.12,20168.37
+891,2025-08-11,Southwest,"Customer 023",Support,Services,16,910.58,14569.28,8870.76
+892,2025-07-04,Southwest,"Customer 037",Implementation,Services,5,887.82,4439.1,2004.16
+893,2025-01-09,Northeast,"Customer 056","Analytics Platform",Technology,5,652.15,3260.75,2291.52
+894,2025-08-01,Southeast,"Customer 055",Implementation,Services,20,1104.04,22080.8,11515.28
+895,2025-10-10,Northeast,"Customer 046",Implementation,Services,8,1132.51,9060.08,4862.83
+896,2025-10-23,Southwest,"Customer 065",Implementation,Services,9,2201.48,19813.32,10449.28
+897,2025-07-07,West,"Customer 073","Cloud Software",Technology,16,3598.19,57571.04,37887.86
+898,2025-09-04,Southwest,"Customer 068","Cloud Software",Technology,9,2458.45,22126.05,14437.64
+899,2025-11-09,Southwest,"Customer 061","Cloud Software",Technology,3,3499.35,10498.05,7624.44
+900,2025-10-24,Southeast,"Customer 007",Consulting,Services,11,2791.41,30705.51,11414.02
+901,2025-08-21,Northeast,"Customer 074",Support,Services,11,2249.83,24748.13,16672.64
+902,2025-05-31,Southwest,"Customer 005",Consulting,Services,20,3809.77,76195.4,37055.0
+903,2025-10-16,West,"Customer 061",Consulting,Services,19,1053.13,20009.47,7568.77
+904,2025-05-30,West,"Customer 037",Support,Services,16,641.92,10270.72,6171.63
+905,2025-05-23,Southwest,"Customer 079",Consulting,Services,9,1557.28,14015.52,5761.96
+906,2025-02-27,Southwest,"Customer 076",Support,Services,5,3380.99,16904.95,9790.72
+907,2025-03-31,Southwest,"Customer 063",Consulting,Services,6,4047.02,24282.12,12333.43
+908,2025-06-25,Southwest,"Customer 077","Cloud Software",Technology,5,4228.67,21143.35,16078.29
+909,2025-07-31,Southwest,"Customer 057",Implementation,Services,6,1251.57,7509.42,4186.48
+910,2025-06-26,Midwest,"Customer 015","Cloud Software",Technology,2,1046.1,2092.2,1472.49
+911,2025-06-04,Southeast,"Customer 030",Implementation,Services,13,3496.67,45456.71,22837.96
+912,2025-05-15,Southeast,"Customer 056","Analytics Platform",Technology,1,1621.76,1621.76,1179.94
+913,2025-07-15,Southeast,"Customer 006",Consulting,Services,4,4609.13,18436.52,8701.81
+914,2025-08-10,Midwest,"Customer 043",Support,Services,9,1518.67,13668.03,7322.3
+915,2025-12-02,Northeast,"Customer 060",Support,Services,8,3737.99,29903.92,18366.86
+916,2025-04-10,Midwest,"Customer 024",Support,Services,11,2851.16,31362.76,19684.78
+917,2025-02-04,Northeast,"Customer 013","Cloud Software",Technology,17,743.56,12640.52,8991.84
+918,2025-04-23,Midwest,"Customer 025",Consulting,Services,2,362.58,725.16,278.98
+919,2025-11-01,Southeast,"Customer 016","Analytics Platform",Technology,4,660.34,2641.36,1840.37
+920,2025-07-12,Southwest,"Customer 015",Support,Services,6,1453.34,8720.04,5185.92
+921,2025-02-08,Midwest,"Customer 055",Implementation,Services,11,1472.35,16195.85,9149.31
+922,2025-05-22,Northeast,"Customer 050","Cloud Software",Technology,11,4980.8,54788.8,37328.61
+923,2025-05-16,Northeast,"Customer 009","Analytics Platform",Technology,16,4902.25,78436.0,49579.95
+924,2025-07-21,Northeast,"Customer 014","Analytics Platform",Technology,5,2818.0,14090.0,9426.22
+925,2025-11-11,Northeast,"Customer 034","Cloud Software",Technology,4,415.59,1662.36,1082.64
+926,2025-05-09,West,"Customer 064",Implementation,Services,5,3351.11,16755.55,7374.77
+927,2025-01-20,Midwest,"Customer 020",Implementation,Services,11,4546.93,50016.23,26605.76
+928,2025-09-21,Northeast,"Customer 056",Implementation,Services,13,4259.23,55369.99,31281.27
+929,2025-02-05,Southwest,"Customer 001",Support,Services,13,4782.24,62169.12,40464.4
+930,2025-09-04,Southeast,"Customer 069","Cloud Software",Technology,12,1833.84,22006.08,15150.14
+931,2025-01-29,Midwest,"Customer 069","Cloud Software",Technology,11,632.17,6953.87,4961.88
+932,2025-05-29,Southwest,"Customer 071","Analytics Platform",Technology,2,4845.69,9691.38,6839.38
+933,2025-06-03,West,"Customer 046",Implementation,Services,16,653.1,10449.6,5655.81
+934,2025-04-08,West,"Customer 025","Analytics Platform",Technology,1,3668.76,3668.76,2549.32
+935,2025-09-08,West,"Customer 070",Implementation,Services,10,2623.5,26235.0,15593.89
+936,2025-08-19,West,"Customer 044","Cloud Software",Technology,2,1854.16,3708.32,2801.12
+937,2025-07-27,Southwest,"Customer 067","Cloud Software",Technology,15,4715.43,70731.45,55116.21
+938,2025-10-02,Southeast,"Customer 030","Analytics Platform",Technology,3,425.17,1275.51,794.2
+939,2025-12-01,Northeast,"Customer 080","Cloud Software",Technology,2,1402.74,2805.48,2086.73
+940,2025-01-08,West,"Customer 040","Analytics Platform",Technology,4,2416.88,9667.52,6064.53
+941,2025-10-30,West,"Customer 015","Cloud Software",Technology,16,3076.14,49218.24,36347.7
+942,2025-02-02,Northeast,"Customer 044","Analytics Platform",Technology,13,1790.12,23271.56,17596.48
+943,2025-10-22,Southwest,"Customer 042",Support,Services,7,3880.08,27160.56,16700.86
+944,2025-06-21,West,"Customer 036","Cloud Software",Technology,5,3848.36,19241.8,12832.13
+945,2025-07-09,Southwest,"Customer 057",Support,Services,8,4646.96,37175.68,19573.44
+946,2025-02-21,Northeast,"Customer 021",Support,Services,1,4428.23,4428.23,2359.87
+947,2025-01-04,West,"Customer 076","Analytics Platform",Technology,10,2227.06,22270.6,16239.41
+948,2025-09-01,Southwest,"Customer 019","Analytics Platform",Technology,9,2734.66,24611.94,16389.71
+949,2025-03-31,West,"Customer 077",Support,Services,6,3656.69,21940.14,13557.43
+950,2025-02-15,Midwest,"Customer 054",Consulting,Services,1,2899.12,2899.12,1161.69
+951,2025-09-29,Southeast,"Customer 047","Cloud Software",Technology,18,2660.82,47894.76,34210.01
+952,2025-11-17,Midwest,"Customer 007","Analytics Platform",Technology,7,785.23,5496.61,3429.2
+953,2025-08-31,Southwest,"Customer 021",Implementation,Services,2,506.63,1013.26,504.88
+954,2025-04-18,Midwest,"Customer 043",Implementation,Services,20,4074.48,81489.6,45743.8
+955,2025-01-23,West,"Customer 069","Cloud Software",Technology,6,1000.72,6004.32,3870.69
+956,2025-09-21,West,"Customer 031","Cloud Software",Technology,15,3065.36,45980.4,31825.59
+957,2025-04-12,Southwest,"Customer 015",Consulting,Services,11,1331.96,14651.56,5976.94
+958,2025-07-31,Northeast,"Customer 029","Analytics Platform",Technology,3,2487.2,7461.6,5055.27
+959,2025-08-12,Southwest,"Customer 079","Analytics Platform",Technology,15,1095.79,16436.85,10844.34
+960,2025-08-23,Midwest,"Customer 035","Analytics Platform",Technology,7,1845.48,12918.36,7817.35
+961,2025-10-19,Midwest,"Customer 018","Cloud Software",Technology,4,4295.34,17181.36,12256.71
+962,2025-03-29,Southwest,"Customer 038",Consulting,Services,20,994.74,19894.8,9890.31
+963,2025-11-10,Southeast,"Customer 071","Analytics Platform",Technology,8,660.75,5286.0,3896.39
+964,2025-09-08,Southeast,"Customer 061","Analytics Platform",Technology,15,1576.06,23640.9,16945.86
+965,2025-05-07,Midwest,"Customer 056","Analytics Platform",Technology,19,1306.43,24822.17,18576.83
+966,2025-03-18,West,"Customer 054",Support,Services,2,440.28,880.56,524.2
+967,2025-09-16,Northeast,"Customer 068","Cloud Software",Technology,13,2526.53,32844.89,25214.46
+968,2025-02-20,Northeast,"Customer 031",Implementation,Services,3,2902.81,8708.43,3849.02
+969,2025-07-28,Southwest,"Customer 046","Analytics Platform",Technology,10,1385.55,13855.5,10527.86
+970,2025-01-09,Midwest,"Customer 021",Implementation,Services,15,4325.13,64876.95,36302.93
+971,2025-01-13,Northeast,"Customer 018",Implementation,Services,13,1128.49,14670.37,8500.72
+972,2025-11-17,West,"Customer 010",Implementation,Services,13,4493.81,58419.53,28816.31
+973,2025-01-17,Northeast,"Customer 035",Consulting,Services,20,2826.57,56531.4,28102.7
+974,2025-12-17,Southeast,"Customer 043","Cloud Software",Technology,2,2695.0,5390.0,4234.39
+975,2025-07-06,West,"Customer 050","Cloud Software",Technology,12,2460.43,29525.16,19089.19
+976,2025-07-07,Southeast,"Customer 009","Analytics Platform",Technology,18,3619.35,65148.3,41222.85
+977,2025-06-21,Southeast,"Customer 015","Analytics Platform",Technology,16,3752.56,60040.96,43251.37
+978,2025-12-26,Southwest,"Customer 042","Analytics Platform",Technology,12,4515.18,54182.16,36874.78
+979,2025-08-05,West,"Customer 009",Consulting,Services,12,1889.83,22677.96,10155.11
+980,2025-09-27,Northeast,"Customer 069","Cloud Software",Technology,18,4522.39,81403.02,57984.72
+981,2025-07-08,Southwest,"Customer 059","Cloud Software",Technology,3,630.81,1892.43,1483.04
+982,2025-05-28,West,"Customer 022","Cloud Software",Technology,9,782.12,7039.08,4671.64
+983,2025-03-19,Southeast,"Customer 003","Analytics Platform",Technology,10,2228.55,22285.5,15804.53
+984,2025-03-09,Midwest,"Customer 054",Implementation,Services,15,3754.12,56311.8,24970.75
+985,2025-04-07,West,"Customer 030","Cloud Software",Technology,17,3312.19,56307.23,39745.62
+986,2025-06-25,Northeast,"Customer 076",Consulting,Services,17,4249.06,72234.02,31872.61
+987,2025-06-05,Southwest,"Customer 040",Support,Services,6,3999.02,23994.12,13347.57
+988,2025-07-10,West,"Customer 019",Consulting,Services,12,1600.81,19209.72,10046.57
+989,2025-11-13,Southeast,"Customer 037","Analytics Platform",Technology,6,4872.73,29236.38,21468.07
+990,2025-12-21,Southwest,"Customer 031","Analytics Platform",Technology,4,445.47,1781.88,1159.4
+991,2025-03-06,Midwest,"Customer 048",Implementation,Services,6,1224.49,7346.94,4063.9
+992,2025-12-07,Midwest,"Customer 019",Consulting,Services,12,2380.04,28560.48,15024.94
+993,2025-10-01,West,"Customer 004",Consulting,Services,13,4672.58,60743.54,29944.31
+994,2025-08-23,Southwest,"Customer 001",Consulting,Services,18,4884.1,87913.8,37187.97
+995,2025-12-28,Northeast,"Customer 038",Consulting,Services,19,3417.72,64936.68,32334.06
+996,2025-08-15,West,"Customer 062",Consulting,Services,2,912.26,1824.52,835.91
+997,2025-06-07,Northeast,"Customer 080","Cloud Software",Technology,8,2368.37,18946.96,12406.41
+998,2025-01-29,Southwest,"Customer 075",Support,Services,17,1305.18,22188.06,14859.49
+999,2025-05-23,West,"Customer 011","Analytics Platform",Technology,18,4284.89,77128.02,54632.1
+1000,2025-02-14,Northeast,"Customer 025",Support,Services,16,1759.35,28149.6,17363.02
